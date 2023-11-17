@@ -1,6 +1,6 @@
 # Data Primer
 Anies:
-* Before: https://www.instagram.com/p/Cwmq2C4vLzP/
+* Before: https://www.instagram.com/p/CwcBn24qD82/
 * After: https://www.instagram.com/p/CwrmRJ7Brny/
 
 Ganjar:
@@ -8,8 +8,8 @@ Ganjar:
 * After: https://www.instagram.com/p/CyhxfwsRkIf/
 
 Prabowo:
-* Before: https://www.instagram.com/p/Cyn5KawylXR/
-* After: https://www.instagram.com/p/Cysfy8tSwNB/?img_index=1
+* Before: https://www.instagram.com/p/CyA6UqTS9Wg/
+* After: https://www.instagram.com/p/CyzvqABSzxY
 
 
 
