@@ -18,4 +18,5 @@ Prabowo:
 
 # Normalisasi Text
 * https://github.com/nasalsabila/kamus-alay
-
+# Singkatan
+* https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset/blob/master/kamus_singkatan.csv 
