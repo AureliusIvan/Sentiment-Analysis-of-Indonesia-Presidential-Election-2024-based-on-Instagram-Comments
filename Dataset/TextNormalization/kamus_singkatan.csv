@@ -1,4 +1,4 @@
-singkatan,kepanjangan
+slang,formal
 aamiin,amin 
 adek,adik 
 adlh,adalah 
@@ -43,8 +43,12 @@ ayuk,ayo
 babang,abang
 bae,baik 
 bais,habis
-bakalan,akan 
-bales,balas 
+bakalan,akan
+bkal,akan
+bkl,akan 
+bales,balas
+bls,balas
+balesin,balas 
 bandingin,bandingkan 
 banget,sekali 
 bangett,sangat 
@@ -149,6 +153,7 @@ bole,boleh
 boong,bohong 
 bosen,bosan 
 bpk,bapak 
+bp,bapak 
 brani,berani 
 brapa,berapa 
 brarti,berarti 
@@ -245,6 +250,7 @@ cwo,cowok
 cyang,sayang 
 dah,sudah 
 dah,sudah
+udh,sudah
 dalem,dalam 
 dapa,ada apa
 dapah,ada apa
@@ -912,6 +918,8 @@ nmbh,tambah
 nmny,namanya 
 nmpk,nampak 
 nmr,nomor 
+ntr,nanti
+ntar,nanti
 nnti,nanti 
 nntn,nonton 
 nntn,menonton
@@ -1276,7 +1284,6 @@ udah,sudah
 udd,sudah
 udeh,sudah 
 udh,sudah 
-udh,sudah
 uga,juga
 ujan2an,hujan-hujanan 
 untk,untuk 
@@ -1308,3 +1315,50 @@ yup,ya
 yups,ya
 yupz,ya
 ywdh,ya sudah
+ongkir,ongkos kirim
+gub,gubenur
+pk,pak
+ttap,tetap
+padaa,pada
+pliss,tolong
+plis,tolong
+please,tolong
+tlong,tolong
+tlg,tolong
+klop,cocok
+fix,sudah pasti
+alm,almarhum
+capres,calon presiden
+cawapres,calon wakil presiden
+tuk,untuk
+bbm,bahan bakar minyak
+stop,berhenti
+next, selanjutnya
+turu,tidur
+ez,mudah
+oke,baik
+ok,baik
+okky,baik
+power,kuat
+hoaxx,bohong
+hoax,bohong
+top,bagus
+diee,dia
+skip,lanjut
+kadroen,kadrun
+manies,manis
+lumyan,lumayan
+perna,pernah
+auto,otomatis
+mon,mohon
+mh,mah
+ngefek,efek
+baperan,bawa perasaan
+nyungsep,jatuh
+jatim,jakarta timur
+jabar,jakarta barat
+jateng,jakarta tengah
+jatut,jakarta utara
+jasel,jakarta selatan
+udhlah,sudah
+kshtn,kesehatan
