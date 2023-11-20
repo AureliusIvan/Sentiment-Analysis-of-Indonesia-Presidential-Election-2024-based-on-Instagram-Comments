@@ -12,7 +12,8 @@ Prabowo:
 * Before: https://www.instagram.com/p/CyA6UqTS9Wg/
 * After: https://www.instagram.com/p/CyzvqABSzxY
 * ussfeed_after: https://www.instagram.com/p/Cys8s0Ph0MW/
-
+* Kompas After: https://www.instagram.com/p/Cys6G02yBba/
+* Kompas Before: https://www.instagram.com/p/CyA6UqTS9Wg/
 
 # Data Sekunder
 
