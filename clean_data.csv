@@ -1,0 +1,1418 @@
+comments,label
+"['bismillah', 'tolong', 'gandeng']",0.0
+"['lumayan', 'lawa', 'pilpres']",0.0
+"['ingat', 'mbak', 'yenny', 'gus', 'dur', 'guru', 'politik', 'palah', 'kudeta', 'rakyat']",0.0
+"['hanya', 'pecah', 'suara', 'saja', 'sayang', 'jadi', 'alternatif', 'pilih']",0.0
+"['kuasa', 'dukung', 'saja', 'deh', 'salah', 'pilih', 'wakil']",0.0
+"['sudah', 'menang', 'banyak', 'tingkah', 'saja', 'sudah', 'tua']",0.0
+"['kacau', 'kacau', 'iki', 'manuver', 'mulus', 'wapres', 'dompleng', 'demokrat', 'solid', 'kpp', 'ya', 'selamat', 'saja', 'selnjutnya', 'tunggu']",0.0
+"['pilih', 'drama', 'belum', 'tahu', 'pilih', 'tunggi', 'jelang', 'pilpres', 'saja']",0.0
+"['mulut', 'manis']",0.0
+"['kasihan', 'sekali', 'pilih', 'beliau', 'deh', 'tuju', 'wakil']",0.0
+['wayae'],1.0
+"['belum', 'tahu', 'pilih', 'tau', 'pilih']",0.0
+"['ambisi', 'batas']",1.0
+"['kadrun', 'kecewa']",0.0
+"['cocok', 'duet', 'badut', 'wak', 'wan', 'abud', 'depak', 'mayor', 'karbitan']",0.0
+"['guru', 'saja', 'khianat', 'rekan', 'cocok']",0.0
+"['penuh', 'komedi']",0.0
+"['deklarasi', 'tukang', 'tikung']",0.0
+"['sudah pasti', 'kalah']",0.0
+"['mantan', 'napi']",0.0
+"['almarhum', 'gusdur', 'saja', 'khianat', 'rakyat', 'puncak', 'komedi']",0.0
+['dukung'],1.0
+"['wan', 'abud', 'tugas', 'partai', 'bewok']",0.0
+['pilih'],0.0
+"['calon presiden', 'calon wakil presiden', 'pintar', 'bohong', 'prestasi', 'indonesia', 'maju', 'kembang']",0.0
+"['pasang', 'manusia', 'gila', 'jabat']",0.0
+"['taktik', 'konsultan', 'politik', 'untuk', 'habis', 'kang', 'paksa', 'surya', 'paloh', 'untuk', 'terima', 'kang', 'wapres', 'syarat', 'menteri', 'nasdem', 'lebar', 'mana']",0.0
+"['dki', 'jakarta', 'demokrat', 'saja', 'khianat', 'rakyat', 'indonesia']",0.0
+"['minum', 'pilih', 'cap', 'badak', 'presiden', 'pilih', 'cap', 'banteng']",0.0
+"['model', 'mimpin', 'rakyat', 'indonesia', 'remukk']",0.0
+"['pidato', 'surabaya', 'deklarasi', 'bilang', 'bekas', 'tilpun', 'kumpul', 'elita', 'nasdem', 'temu', 'kalo', 'besuk', 'deklarasi', 'berita', 'koalisi', 'hitung', 'menit', 'dadak', 'wayang', 'surya', 'paloh']",0.0
+"['golput', 'kumpul']",0.0
+"['umat', 'loyal', 'partai', 'ketua', 'yen', 'guru', 'kudeta', 'rakyat', 'musang', 'bulu', 'kardus', 'bentuk', 'nyungsepnya', 'terang', 'benderang', 'sekian', 'terima', 'gajih']",0.0
+[],0.0
+"['janji', 'kampanye', 'presiden', 'bahan bakar minyak', 'fakta', 'henti', 'impor', 'pangan', 'fakta', 'impor', 'dollar', 'ribu', 'fakta', 'zonk', 'cipta', 'juta', 'lapang', 'kerja', 'fakta', 'phk', 'hutang', 'fakta', 'hutang', 'roket', 'cipta', 'kartu', 'sembako', 'murah', 'fakta', 'bohong', 'ekonomi', 'roket', 'fakta', 'hutang', 'roket', 'kartu', 'pintar', 'kulia', 'gratis', 'janji', 'janji', 'sebut', 'satu', 'kerja']",0.0
+"['tombol', 'manis', 'mulut', 'saja']",0.0
+"['orang', 'kalo', 'sudah', 'haus', 'kuasa', 'partner', 'sama', 'ideologi', 'ngaruh', 'padahal', 'akar', 'rumput', 'tuju', 'jalan', 'mdhan']",0.0
+"['bismillah', 'amin', 'negeri', 'dengab', 'ubah', 'satu']",0.0
+"['mari', 'teman', 'dukung', 'doa', 'calon presiden', 'abadi', 'indonesia']",1.0
+"['surabaya', 'khianat', 'jas', 'merah', 'deklarasi', 'calon wakil presiden', 'hidayat', 'nur', 'dekat', 'tutup', 'daftar', 'pilih', 'budiono', 'calon wakil presiden', 'jas', 'merah']",0.0
+"['saya', 'juga', 'senang', 'ubah', 'pilih']",1.0
+"['sadar', 'bang', 'brewok', 'hancur', 'cita', 'cita', 'presiden']",0.0
+"['pndukung', 'dari', 'khusus', 'untuk', 'kecewa', 'maju', 'sama', 'nasdem', 'punya', 'pndukung', 'oligarki', 'bwah', 'untuk', 'masih', 'wait', 'sih', 'aman', 'tunggu', 'komando', 'ulama', 'lurus', 'saja', 'punya', 'jejak', 'bagus', 'slma', 'pcuma', 'juga', 'pasang', 'untuk', 'sudah', 'cocok', 'mnurut', 'nama', 'harum', 'klngan', 'msyrkt', 'melayu', 'sambas', 'sayang']",0.0
+"['tuhan', 'senang', 'kalah']",0.0
+"['mantap', 'wan', 'abud', 'sang', 'kacung', 'bewok']",1.0
+"['lanjut', 'presiden']",1.0
+"['tukang', 'bohong']",0.0
+"['warga', 'jakarta', 'mah', 'sudah', 'kenyang', 'prank', 'doi', 'kali', 'bukti', 'kapok', 'prank']",0.0
+"['pimpin', 'partai', 'orang', 'wasiat', 'pesan', 'gus', 'dur', 'mbak', 'yennywahid']",0.0
+"['awas', 'kuda', 'troya']",0.0
+"['ngaruh', 'biar', 'ramai', 'dunia', 'rakyat', 'tahu']",0.0
+"['did', 'you', 'remember', 'about', 'free', 'concerts', 'maliq', 'risasondari']",1.0
+"['kalah', 'surya', 'paloh', 'memang', 'bodoh']",0.0
+"['yen', 'jamin', 'pecah', 'suara']",0.0
+"['sudah pasti', 'otomatis', 'golput']",0.0
+['wakil'],1.0
+"['pilih', 'sapa']",1.0
+['kalah'],0.0
+"['kebeelett', 'ngiiseng']",0.0
+"['cocok', 'karakter']",0.0
+"['goput', 'saja', 'begitu']",0.0
+"['boneka', 'paloh']",0.0
+"['pojok', 'intip']",1.0
+"['otomatis', 'golput']",0.0
+"['mending', 'tidur']",0.0
+"['tugas', 'partai', 'kacung', 'partai', 'official nasdem']",0.0
+"['golput', 'enak']",0.0
+"['otw', 'nyungseb']",0.0
+"['yoga dblng', 'yoyoyoyoyo']",1.0
+"['pasang', 'cocok']",1.0
+"['serah', 'deh']",1.0
+"['abdi', 'bangsa', 'negara', 'terus', 'juang', 'kakek', 'buyut', 'sedap', 'kali', 'jargon', 'indak', 'abdi', 'nusa', 'bangsa', 'dong', 'indak', 'terus', 'juang', 'kakek', 'buyut', 'indak', 'pimpin']",0.0
+"['tega', 'benar', 'tim', 'freehaten']",0.0
+"['netijen', 'sudah', 'pintar', 'pilih']",0.0
+"['serius', 'tanya', 'kuat', 'atau', 'cuman', 'ngandelin']",0.0
+"['tunggu', 'milu', 'saja', 'tahu', 'hasil']",0.0
+['lucu'],0.0
+"['gembira', 'lihat', 'saja', 'hasil']",0.0
+"['demokrat', 'partai', 'besat', 'lolo']",0.0
+['bohong'],0.0
+"['kalah', 'menang']",0.0
+"['duh', 'sayang', 'banget', 'pakai', 'join', 'bgituan']",0.0
+"['aduh', 'politik', 'kelas', 'sayang']",0.0
+['muka'],0.0
+"['mana', 'kah', 'demokrat', 'koalisi']",1.0
+"['orang', 'jakarta timur', 'kenal']",0.0
+['pilih'],1.0
+['aduhaduhaduhh'],0.0
+['gakenal'],0.0
+"['bagus', 'global']",0.0
+"['ramai', 'ramai', 'saja']",0.0
+"['sptnya', 'menang', 'min']",0.0
+"['puncak', 'komedi']",0.0
+"['benar', 'benar', 'dia', 'otomatis', 'suara', 'hilang']",0.0
+"['pilih', 'presiden', 'wakil', 'serah', 'wakil', 'tidur', 'hati']",1.0
+"['pikir', 'menang', 'mimpi']",0.0
+"['moga', 'duet', 'biar', 'langsung', 'kill', 'game']",0.0
+"['wis', 'tetap', 'apik']",0.0
+"['elektabilitas', 'jatuh']",0.0
+['lanjut'],0.0
+"['kenal', 'prestasi', 'tonjol']",0.0
+"['ramai', 'bawa asa', 'medsos']",0.0
+"['kalo', 'saya', 'begitu', 'kenal', 'kalo', 'saya', 'tahu', 'sekali', 'beliau', 'dulunya', 'gubernur', 'bodoh', 'sudah', 'gubernur']",0.0
+"['kalah', 'tanding']",0.0
+"['mbak', 'yenny']",0.0
+"['omong', 'omong', 'aruf', 'amin']",1.0
+[],0.0
+"['sudah', 'kenapa', 'minn', 'sudah', 'kasihan', 'agus', 'menang', 'brenti', 'pojok']",1.0
+['bodo'],0.0
+"['kadrun', 'dukung']",0.0
+['kenapa'],1.0
+"['akwokaowkaowk', 'serasa', 'nonton', 'ulang', 'game']",0.0
+"['mending', 'jangan', 'calon', 'presiden', 'calon', 'sama', 'wakil', 'cocok']",0.0
+"['mah', 'kagak', 'prrcaya', 'isu', 'provokasi', 'isu', 'ajang', 'politik', 'aneh', 'orang', 'pinterpinter', 'bius', 'angin', 'isu', 'politik', 'cerdas', 'politik', 'ber', 'bicara', 'memjadi', 'baik', 'masarakat', 'indonesia', 'damba', 'amin', 'yra']",0.0
+"['wakil', 'mah', 'efek', 'kemarin', 'wakil', 'sampai', 'sekarang', 'saja', 'saya', 'mgliat', 'menang', 'dukung', 'selalu', 'menang']",1.0
+"['ketua', 'kudeta', 'wapres', 'kudeta']",1.0
+"['pilih', 'gaduh', 'laah', 'kalah', 'kambing', 'congek', 'cari', 'salah']",0.0
+[],0.0
+"['mampu', 'rangkai', 'cocok', 'guru', 'bahasa', 'indonesia', 'presiden', 'indonesia']",0.0
+"['mulai', 'kalah']",1.0
+"['putar', 'sudah', 'gugur']",0.0
+"['tukang', 'tata', 'satu', 'tukang', 'kudeta', 'chuaaksz', 'abdielhibran']",0.0
+"['kejut', 'kejut']",0.0
+"['gus', 'dur', 'saja', 'kudeta', 'rakyat', 'ingat', 'yennywahid']",0.0
+"['gabung', 'konv', 'nsi', 'calon', 'presiden', 'demokrat', 'putar', 'haluan', 'dukung', 'belok', 'kubu', 'pindah', 'calon', 'ubah', 'sekarang', 'belok', 'banyak', 'belok', 'wan', 'abud']",0.0
+"['syukur', 'pasang']",0.0
+['simak'],0.0
+['zonk'],0.0
+"['khianat', 'probowo', 'usung', 'dki', 'sekarang', 'khianat', 'demokrat', 'terus', 'mlih', 'lagi']",1.0
+['dukung'],0.0
+"['kalo', 'kenal', 'pilih', 'ygy']",0.0
+"['tunggu', 'serang']",0.0
+"['orang', 'jujur', 'jauh', 'orang', 'jujur', 'orang', 'jujur', 'jauh', 'orang', 'jujur', 'karena', 'takutt', 'sinkronn']",0.0
+"['mudah', 'menang']",0.0
+"['sosok', 'munafik', 'henti', 'pilpre', 'bubar', 'kaum', 'kadrun', 'kaum', 'munafik', 'hancur', 'parpol', 'monarki', 'nusantara', 'monarki', 'antarnusa', 'ber', 'pancasila', 'uud', 'gbhn']",0.0
+"['wes', 'klob', 'tumbuh', 'ketemu', 'tutup', 'wan', 'abud', 'khianat', 'demokrat', 'khianat', 'almarhum', 'gus', 'dur']",0.0
+"['milu', 'sudah', 'tahu', 'presiden', 'kasihan', 'deh']",0.0
+"['pokok', 'euy']",0.0
+"['waduh', 'banteng', 'menang']",0.0
+"['moga', 'calon presiden', 'periode']",0.0
+"['probowo', 'for']",0.0
+"['tidak ada', 'dukung']",0.0
+"['pilih', 'tidak tau', 'otag', 'bagaimana']",0.0
+"['pilih', 'orang', 'kuasa', 'orang', 'haus', 'kuasa']",1.0
+['bawah'],0.0
+"['sumpah', 'rencana', 'pilih', 'musuh', 'gus', 'dur', 'otomatis', 'lanjut']",0.0
+"['kecewa', 'mohon', 'maaf', 'pilih']",0.0
+"['koalisi', 'ubah']",0.0
+"['akak', 'banget']",0.0
+"['benar', 'kalo', 'menang', 'damping', 'anak']",0.0
+"['moal', 'baleegg']",0.0
+"['ambisi', 'menghianati']",0.0
+['yenni'],0.0
+['blunderr'],0.0
+"['menang', 'saya', 'jalan', 'kantor', 'kayang']",1.0
+['blunder'],0.0
+"['gakpopo', 'wis', 'didadekno', 'calon wakil presiden', 'cek', 'senang', 'ati', 'arek', 'cilik', 'iku', 'ojok', 'pilih']",0.0
+['tahu'],1.0
+"['peduli', 'sumvah']",0.0
+"['moga', 'erick']",1.0
+"['kiw', 'kiw', 'cukurukuk', 'kuk', 'geruuk', 'empu', 'jeruu']",0.0
+['asin'],0.0
+['kabur'],0.0
+"['alternatif', 'pilih', 'ya']",0.0
+['pilih'],0.0
+"['basis', 'rata', 'seluruh', 'indonesia', 'dijawa', 'timur', 'dulang', 'suara', 'milu']",0.0
+"['pasang', 'pasti', 'tukang', 'selingkuh']",0.0
+"['selamat', 'pasang', 'romantis', 'banget', 'setia']",0.0
+['tuju'],1.0
+"['alhamdulillah', 'moga', 'paham', 'tugas', 'partai', 'hobi', 'janji', 'manis', 'buat', 'langsung', 'tunggu', 'instruksi', 'bos']",0.0
+"['pasang', 'sandera']",1.0
+"['tetap', 'pilih', 'benci', 'cawapresnya']",0.0
+"['bukti', 'saja', 'sudah', 'bully']",0.0
+"['minyak', 'air']",0.0
+"['jalan', 'pertama', 'tunang', 'haha', 'janji', 'manis', 'angan', 'angan', 'demokrat']",1.0
+['mending'],1.0
+"['manten', 'manten']",0.0
+"['hasil', 'musyawarah', 'tokoh', 'muka', 'pada', 'nyinyirr']",1.0
+['kok'],1.0
+['pilih'],0.0
+"['wakil', 'pilih', 'lho']",1.0
+"['blunder', 'blunder', 'mikir', 'pilih']",0.0
+['kembar'],0.0
+['duet'],0.0
+"['biar', 'kapok', 'oligarki']",0.0
+['wkwkekwkk'],0.0
+"['ya', 'wapresnya', 'golput']",1.0
+"['pdip', 'kalem', 'ya', 'tunggu', 'ngumunin', 'cawapresnya', 'biar', 'tahu', 'peta', 'kuat', 'lawan', 'hihii']",0.0
+"['langsung', 'jijik']",1.0
+"['sudah', 'pintar', 'nge', 'prank']",0.0
+"['lumayan', 'lag', 'lucun', 'pilpres']",0.0
+"['rakyat', 'lihat', 'politikus', 'rebut', 'kuasa', 'pernah', 'pikir', 'rakyat']",1.0
+['bagus'],0.0
+"['kalah', 'congrat']",0.0
+"['nafsu', 'latar', 'kyai', 'hidup', 'tentram', 'nyaman', 'nafsu', 'jabat', 'proses', 'bikin', 'pusing', 'capek']",0.0
+"['sayang', 'lanjut']",0.0
+"['dumb', 'dumberr']",1.0
+"['pasang', 'amis', 'muhaimin', 'iskandar']",0.0
+"['lihat', 'rekam', 'jejak']",0.0
+"['almarhum', 'rawat', 'icu', 'biaya', 'sedikit', 'alias', 'gratis', 'pakai', 'bpjs']",0.0
+['bual'],0.0
+"['situasi', 'sehat', 'kenal', 'bpjs', 'bicara', 'kenal', 'fakta']",0.0
+"['omong doang', 'gubenur', 'hasil', 'untuk', 'sehat', 'warga', 'dki', 'hanya', 'ganti', 'rumah', 'sakit', 'rumah', 'sehat', 'saja', 'orang', 'sakit', 'sehat', 'ssh', 'pelayananny', 'jls', 'zaman', 'gubenur', 'foke', 'jls', 'nyata', 'laku', 'obat', 'gratis', 'kalo', 'warga', 'dki']",0.0
+"['agan', 'agan', 'percaya', 'calon', 'presiden', 'pidato', 'kampanye', 'same', 'saja']",1.0
+"['lah', 'jakarta', 'beresx', 'tuh', 'jaman', 'jabat', 'biaya', 'sehat', 'didik', 'jaman', 'gubenur', 'masy', 'rasa', 'jaman', 'alami', 'turun', 'puskesmas', 'belum', 'bangun', 'tahun', 'nyapres', 'bicara', 'sehat', 'seolahx', 'peduli', 'masy', 'untuk', 'penting', 'politik', 'hahahaha', 'salam', 'waras']",0.0
+"['alhamdulillah', 'pakai', 'bpjs', 'bikin', 'miskin']",0.0
+"['anak', 'patah', 'tulang', 'corvikulla', 'alhamdulillah', 'biyaya', 'obat', 'gerat', 'tis', 'pakai', 'bpjs', 'rutin', 'bayar', 'wajib', 'layan', 'bagus', 'ramaah']",0.0
+"['alhamdulillah', 'sembuh', 'awat', 'rscm']",0.0
+"['ganti', 'rumah', 'sehat']",0.0
+"['omong', 'saja', 'loh', 'gampang', 'sudah', 'jabat', 'lupa']",1.0
+"['mantap', 'aniess']",1.0
+"['gubernur', 'diam', 'baik', 'calon', 'saja', 'koar']",1.0
+"['allhamdulilah', 'istri', 'lahir', 'operasi', 'sesar', 'pakai', 'bpjs', 'duit', 'layan', 'bagus', 'ramah', 'ramah', 'dokter', 'suster']",0.0
+"['duh', 'bpjs', 'bagus', 'kritik', 'terus', 'padahal', 'beliau', 'mimpin', 'jakarta', 'kacau']",0.0
+"['bang', 'aneh', 'pakai', 'bpjs', 'orang', 'kaya', 'saja', 'pakai', 'bpjs', 'data', 'arang', 'piye', 'orang', 'seperti', 'ingin', 'presiden', 'kritik', 'antri', 'bpjs']",1.0
+"['kampung', 'pelosok', 'jujur', 'kemarin', 'bawa', 'obat', 'rsud', 'gratis', 'kok', 'bpjs', 'biaya']",0.0
+"['hahaha', 'halu', 'wan', 'bpjs', 'aktif', 'rakyat', 'tolong', 'lu', 'mana', 'saja', 'tidur']",0.0
+"['surabaya', 'gratis', 'miskin', 'darimana', 'nies', 'omong', 'asbun', 'saja', 'tebar', 'bohong', 'bpjs', 'banyak', 'manfaat', 'obat', 'gratis']",0.0
+"['pulang', 'rumah', 'sakit', 'pasien', 'kayak', 'hahaha', 'logika', 'kocak']",0.0
+"['daerah', 'gagal', 'sehat', 'kelas', 'nasional', 'deh', 'sanggup', 'anda']",1.0
+"['puskesmas', 'dki', 'bangun', 'jaman', 'gubernur', 'puskesmas', 'bangun', 'kan', 'kasihan', 'masyakat']",0.0
+"['bpjs', 'drun', 'mertua', 'habis', 'operasi', 'gratis', 'bpjs', 'calon presiden', 'nasdem', 'ngawur', 'kalo', 'omong']",0.0
+"['hadehh', 'basi', 'program', 'nasdem', 'hanya', 'buang', 'duit', 'saja', 'calon', 'kawan']",0.0
+"['bayang', 'kalo', 'orang', 'kuasa', 'rumah', 'sakit', 'ganti', 'rumah', 'sehat', 'saudara', 'gagal', 'jantung', 'operasi', 'gratis', 'bpjs', 'bayang', 'kalo', 'rumah', 'jual', 'obat', 'bayar', 'angsur', 'aman']",0.0
+"['pasien', 'icu', 'rumah', 'sakit', 'habis', 'alhamdulillah', 'bpjs', 'gratis']",0.0
+"['hormat', 'narasi', 'tentang', 'sehat', 'sedih', 'kemarin', 'operasi', 'batu', 'ginjal', 'pakai', 'bpjs', 'aman', 'lancar', 'jaya', 'layan', 'sehat', 'sudah', 'bagus']",0.0
+"['presiden', 'klik', 'tombol', 'calon presiden', 'cinta', 'rakyat', 'indonesia', 'prestasi', 'cerdas', 'santun', 'jegal', 'didzalimi', 'fitnah', 'rezim', 'beliau', 'senyum', 'hati', 'lapang', 'doa', 'baik', 'rakyat', 'indonesia', 'kecuali', 'kepada', 'celaka', 'fitnah', 'calon', 'presiden', 'adil', 'suku', 'umat', 'agama', 'ras', 'golong']",0.0
+"['sekarang', 'pasang', 'ring', 'jantung', 'bpjs', 'gratis', 'obat', 'puskesmas', 'gratis', 'periksa', 'darah', 'gigi', 'dan lain', 'hanya', 'ktp']",0.0
+"['adik', 'kena', 'kanker', 'usus', 'obat', 'bpjs', 'dapat', 'kartu', 'kis', 'kartu', 'indonesia', 'sehat', 'gratis', 'obat', 'rspad', 'jakarta', 'sudah', 'otak', 'undonesia', 'presudent', 'berantas', 'korupsi', 'nis', 'krj', 'cari', 'celah', 'penting', 'niss', 'tobat', 'ambisi', 'hancur', 'indonesia', 'karena', 'tahun', 'ongkang', 'kaki', 'baik', 'nis']",1.0
+"['bapak', 'bpjs', 'pakai', 'bpjs', 'gratis', 'orang', 'tua', 'sakit', 'kanker', 'obat', 'kemo', 'operasi', 'tanggung', 'bpjs', 'shgga', 'keluar', 'biaya', 'rumah', 'sakit']",0.0
+"['dki', 'gratis', 'gubernur', 'percaya', 'tidak', 'percaya', 'waras']",1.0
+"['halah', 'gubernur', 'dki', 'tahun', 'bangun', 'puskesmas', 'biji', 'saja', 'bisa', 'oceh', 'kayak', 'begitu']",1.0
+"['kalo', 'dar', 'narasi', 'anak', 'dukung', 'kongkritnya', 'seperti', 'beres', 'jangan', 'fanatik', 'buta', 'jangan', 'dar', 'tepuk', 'tangan', 'negara', 'maju', 'karena', 'logika', 'rakyat', 'fungsi']",0.0
+"['presiden', 'klik', 'tombol', 'dunia', 'internasional', 'nobat', 'bagai', 'salah', 'daftar', 'tokoh', 'intelektual', 'dunia', 'daftar', 'terbit', 'majalah', 'foreign', 'policy', 'terbit', 'carnegie', 'endowment', 'for', 'international', 'peace', 'pusat', 'washington', 'dunia', 'internasional', 'nobat', 'bagai', 'salah', 'tokoh', 'bawa', 'ubah', 'dunia', 'nama', 'tengger', 'tokoh', 'dunia', 'perdana', 'menteri', 'rusia', 'vladimir', 'putin', 'presiden', 'venezuela', 'hugo', 'chavez', 'menlu', 'inggris', 'david', 'miliband', 'anggota', 'parlemen', 'sekjen', 'indian', 'national', 'congress', 'india', 'rahul', 'gandhi', 'politis', 'muda', 'partai', 'republik', 'anggota', 'house', 'representative', 'paul', 'ryan', 'daftar', 'terbit', 'majalah', 'foresight', 'jepang', 'biar', 'bilang', 'bohong', 'sila', 'klik', 'google', 'terima kasih']",0.0
+"['ngadi', 'ngadi', 'tenaga', 'sehat', 'persis', 'tanggung', 'bpjs', 'pasien', 'bayar', 'peser', 'tenaga', 'sehat', 'kerja', 'hutang', 'bpjs', 'bpjs', 'bisa', 'bilang', 'sakit', 'pasien', 'tanggung', 'bpjs', 'kalo', 'aku', 'bayar', 'bawah', 'pakai', 'butuh', 'pasien', 'bpjs', 'bayar', 'tenaga', 'sehat', 'bayar', 'kalo', 'bpjs', 'bayar', 'kalo', 'bayar', 'tenaga', 'sehat', 'bayar', 'kalo', 'claim', 'bayar', 'bpjs', 'selisih', 'potong', 'gaji', 'tenaga', 'sehat', 'minus', 'selang', 'bpjs', 'uang', 'bayar', 'serta', 'denda', 'alas', 'error', 'code', 'tenaga', 'sehat', 'bayar', 'minimal', 'pasien', 'dokter', 'spesialis', 'pasien', 'dokter', 'pasien', 'bidan', 'awat', 'pasien', 'ngadi', 'ngadi', 'kasihan', 'tuh', 'tenaga', 'sehat', 'sudah', 'bayar', 'minim', 'kerja', 'maksimal', 'potong', 'kalo', 'pasien', 'butuh']",0.0
+"['presiden', 'klik', 'tombol', 'dunia', 'internasional', 'nobat', 'bagai', 'salah', 'daftar', 'tokoh', 'intelektual', 'dunia', 'dunia', 'internasional', 'nobat', 'bagai', 'salah', 'tokoh', 'bawa', 'ubah', 'dunia', 'nama', 'tengger', 'tokoh', 'dunia', 'perdana', 'menteri', 'rusia', 'vladimir', 'putin', 'presiden', 'venezuela', 'hugo', 'chavez', 'menlu', 'inggris', 'david', 'miliband', 'biar', 'bilang', 'bohong', 'sila', 'klik', 'google', 'terima kasih']",0.0
+"['nies', 'tetangga', 'sakit', 'kanker', 'otak', 'pmeriksaan', 'operasi', 'awat', 'tanggung', 'bpjs', 'bayang', 'bpjs', 'biaya', 'sampai', 'ratus', 'juta', 'keponakan', 'operasi', 'cesar', 'biaya', 'bpjs', 'tebar', 'bohong', 'sahwat', 'presiden']",0.0
+"['tidak', 'pakai', 'muter', 'lanjut', 'presiden', 'klik']",1.0
+"['bpjs', 'daerah', 'cerita', 'orang', 'obat', 'bpjs']",0.0
+"['negara', 'duduk', 'baca', 'data', 'pengaruh', 'ucapanya']",1.0
+"['orang', 'tinggal', 'mana', 'sakit', 'obat', 'orang', 'tanggung', 'bpjs', 'jual', 'agama', 'saja', 'mending', 'ahli', 'percaya', 'dukung']",0.0
+"['presiden', 'rumah', 'sehat', 'sudah', 'bpjskesehatan ri', 'bray', 'nyebutnya', 'rumah', 'sakit', 'ya']",1.0
+"['maksud', 'orang', 'miskin', 'obat', 'jaman', 'orba', 'orang', 'miskin', 'obat', 'move', 'rakyat', 'deh', 'pintar', 'deh', 'bilang']",1.0
+"['bacot', 'banjir', 'beres', 'jalan', 'lobangin', 'urus', 'orang', 'pakai', 'otak', 'tahu', 'malu']",0.0
+"['calon', 'presiden', 'modal', 'nyinyir']",0.0
+"['omong', 'kosong', 'obat', 'pakai', 'bpjs', 'gratis', 'gratis', 'hak', 'kelas', 'awat', 'kelas', 'kelas', 'vip', 'vvip', 'miskin', 'bohong']",0.0
+"['mamak', 'sakit', 'jenis', 'kanker', 'biaya', 'obat', 'biaya', 'bpjskesehatan ri', 'kelas', 'syukur', 'fasilitas', 'layan', 'sehat', 'maju']",0.0
+"['pakai', 'bpjs', 'pasang', 'ring', 'jantung', 'gratis', 'operasi', 'katarak', 'kanan', 'kiri', 'gratis', 'operasi', 'tumor', 'payudara', 'gratiiss', 'tis', 'kalo', 'percaya', 'berkas']",0.0
+"['alhamdulillah', 'keluarga', 'tindak', 'operasi', 'gratis', 'pakai', 'bpjs', 'sing', 'berkas', 'administrasi', 'lengkap', 'bicara', 'nol']",0.0
+"['tidak', 'bpjs', 'bantu']",0.0
+['tukangibul'],1.0
+"['pakai', 'bpjs']",1.0
+"['calon', 'presiden', 'rumah', 'sehat']",0.0
+"['keluarga', 'tolong', 'bpjs', 'bos', 'banyak', 'bohong', 'tong', 'awas', 'ubah', 'nama', 'rumah', 'sehat']",1.0
+"['apa', 'janji', 'dasar', 'contoh', 'rumah']",0.0
+"['hahahha', 'rencana', 'robah', 'nama', 'biar', 'sesuai', 'selera']",0.0
+"['jalan', 'hidup', 'sulit', 'kacau', 'coba', 'rubah', 'nama', 'jalan']",0.0
+"['rumah', 'persen', 'saja', 'tidak', 'jalan']",0.0
+"['orang', 'bilang', 'kalo', 'sehat', 'sakit']",0.0
+"['kok', 'ganti', 'rumah', 'sakit', 'rumah', 'sehat', 'biar', 'pulang', 'sehat']",0.0
+"['nanti', 'dganti', 'rumah', 'sehat']",0.0
+"['kemarin', 'bilang', 'rumah', 'sehat', 'bilang', 'rumah', 'miskin', 'rumah', 'gurun']",0.0
+"['bpjs', 'obat', 'gratis', 'obat', 'gratis', 'bayar', 'iur', 'kartu', 'sehat', 'nama']",0.0
+"['omong', 'solusi', 'yohanis']",0.0
+"['wan', 'bacot', 'wacana', 'narasi', 'kerja', 'mah', 'tidak', 'becus']",0.0
+"['hahaha', 'jakarta', 'saja', 'amburadul', 'karena']",0.0
+"['wan', 'aiboon', 'wan', 'lebih', 'bayar']",1.0
+"['bacot', 'saja', 'sampai', 'tetes', 'iler']",0.0
+"['nis', 'memang', 'laku', 'jual', 'bohong']",0.0
+"['bohong', 'bohong', 'bohong', 'anjing']",0.0
+['omong'],0.0
+"['lucu', 'sudah', 'bpjs', 'akak']",0.0
+"['aduh', 'bos', 'mana', 'pemkab', 'pemprov', 'sedia', 'faskes', 'untuk', 'rakyat', 'miskin']",0.0
+"['solusi', 'ubah', 'nama', 'rumah', 'sakit', 'rumah', 'sehat', 'cerdaas']",0.0
+"['duh', 'manusia', 'ruwet', 'jagat', 'kalo', 'omong', 'blunder', 'kemarin', 'bilang', 'rumah', 'sehat', 'sekarang', 'bilang', 'rumah', 'sakit']",0.0
+"['rumah', 'sehat', 'rumahsakit', 'nyebutnya']",0.0
+"['wam', 'bacot', 'bin', 'tipu', 'bin', 'munafik', 'bin', 'oon', 'bin', 'kerja', 'nyata', 'bin', 'lebih', 'bayar', 'ancurr']",0.0
+"['tukang', 'tipu', 'muslihat']",0.0
+"['gratis', 'begitu', 'darimana', 'duit', 'programu', 'rumah', 'jakarta', 'saja', 'gatot', 'kaca', 'belum', 'bacot']",0.0
+"['orang', 'jago', 'bacot', 'hasil', 'muter', 'ngaler', 'ngidul', 'omong', 'karuan', 'hasil', 'parah', 'calon', 'kadrun', 'cocok']",0.0
+"['jangan', 'lupa', 'janji', 'saja', 'tepat', 'banyak', 'uap', 'tiup', 'angin']",0.0
+"['jijik', 'tiap', 'lihat', 'orang', 'kalo', 'orasi', 'seperti']",0.0
+"['lawan', 'spesiapisasi', 'dongeng']",0.0
+"['orang', 'yaman', 'memang', 'obat', 'bpjs']",0.0
+"['ngebacot', 'mah', 'tukang', 'beca']",0.0
+['omong'],0.0
+"['rumah', 'sakit', 'rumah', 'sehat', 'karena', 'untuk', 'sehat', 'sakit']",0.0
+"['sedih', 'berfikirnya', 'orang']",0.0
+"['apa', 'sotot', 'nies', 'sorot', 'geblek', 'hahaha']",0.0
+"['jakarta', 'saja', 'dikibulin', 'habis', 'indonesia', 'sampai', 'allah']",0.0
+"['kabar', 'rumah', 'sehat']",0.0
+"['tuh', 'idi wilayah jakarta', 'gibahin', 'mantan']",0.0
+"['bilang', 'begitu', 'jakarta', 'tapi', 'bukti', 'tolong', 'isak', 'orang', 'belakang']",0.0
+"['ganti', 'nama', 'biar', 'murah']",0.0
+"['nis', 'omong', 'ribet']",0.0
+"['ingat', 'kali', 'waringin']",0.0
+"['pintar', 'omong']",0.0
+"['bohong', 'bohong']",0.0
+"['lelet', 'tahu', 'dengar', 'dasar', 'cenderung', 'mikir', 'memang', 'warga', 'begini', 'obat', 'pulang', 'miskin', 'kasihan', 'wawas', 'dasar', 'dendam', 'otak', 'waras', 'rusak']",0.0
+['sus'],1.0
+"['calon presiden', 'omong', 'kosong', 'janji', 'berani', 'kasih', 'garansi', 'garansi', 'janji']",0.0
+"['ngawur', 'salah', 'data', 'sekarang', 'program', 'surabaya', 'terus', 'bpjs', 'duit', 'pakai', 'bpjs', 'mandiri', 'duit', 'tengah', 'atas', 'bpjs', 'badan', 'usaha', 'bpjs', 'keshatan', 'subsidi', 'bpjs', 'apbn', 'pbi', 'apbd', 'gubenur', 'jalannkan', 'bijak', 'pusat', 'camat', 'lurah', 'kartu', 'sehat', 'salur', 'sehat', 'bantu', 'perintah', 'sekarang', 'mikirnya', 'sudah', 'buktika', 'operasi', 'bayar', 'peser', 'pbi', 'apbn', 'apbd', 'tanggung', 'perintah', 'wan', 'yohanis', 'mahal', 'biar']",1.0
+"['ganti', 'rumah', 'sakit', 'rumah', 'sehat']",0.0
+"['solusi', 'rumah', 'sakit', 'rumah', 'sehat']",0.0
+"['sehat', 'saja', 'patungan', 'bangun', 'kota']",0.0
+"['bacot', 'bohong', 'tolakkemunduran', 'tolakelebihanbayar', 'tolakprovokator']",0.0
+"['rumah', 'sehat']",0.0
+"['nyorot', 'muluk']",0.0
+['pelan'],0.0
+"['jakarta', 'layan', 'sehat', 'benah']",0.0
+['presedent'],0.0
+"['pilih', 'cawspres', 'becus']",0.0
+"['rumah', 'sakit', 'rumah', 'sehat', 'program', 'hebat']",0.0
+"['terus', 'tunggak', 'bpjs', 'sekarang', 'omong', 'fakta', 'karena', 'tau', 'sebar', 'bpjs', 'msayarakat', 'bahan', 'kampanye']",1.0
+"['gratis', 'operasi', 'kantung', 'empedu', 'bpjs']",0.0
+"['nama', 'sudah', 'ganti', 'rumah', 'sehat']",0.0
+"['tong', 'kosong', 'nyaring', 'bunyi']",1.0
+"['wan', 'nggedabrus', 'bin', 'bohong']",0.0
+"['kalo', 'sukses', 'orang', 'paling', 'kalo', 'jabat', 'kerja', 'hanya', 'ganti', 'nama', 'bpjs', 'bpjk', 'meng', 'klaim', 'kerja']",1.0
+"['deh', 'habis', 'ide', 'bangun', 'bangsa']",0.0
+"['nama', 'rumah', 'sakit', 'sudah', 'ganti', 'rumah', 'sehat', 'beliau', 'jabat', 'gabener', 'dki']",0.0
+"['pakai', 'bpjs', 'gratis', 'sekarang', 'sakit', 'tinggal', 'lapor', 'saja', 'bantu']",0.0
+['ngawur'],0.0
+"['bpjs', 'aco']",0.0
+['mata'],0.0
+['hemm'],1.0
+"['kayak', 'linglung', 'sudah', 'bpjs']",0.0
+"['tahu', 'kalo', 'rumah', 'sakit', 'sembuh', 'pulang', 'pulang', 'sembuh', 'pulang', 'kayak']",0.0
+"['bpjs', 'bantu', 'nama', 'sakit', 'biaya', 'miskin']",0.0
+"['akak', 'pakai', 'bpjs', 'hahahhahhahah']",0.0
+"['solusi', 'omdoo', 'jakarta', 'saja']",0.0
+"['titip', 'lingkung', 'hidup']",0.0
+"['kabar', 'mimpin', 'jakarta', 'sanggup', 'bangun', 'puskes', 'saja']",0.0
+"['periksa', 'gigi', 'kali', 'bolak', 'awat', 'salur', 'akar', 'tambal', 'gratis', 'tis', 'tis', 'pakai', 'bpjs', 'tahu', 'periksa', 'gigi', 'murah']",0.0
+"['baca', 'komen']",0.0
+"['kritik', 'cari', 'salah', 'mental', 'pimpin', 'cari', 'inovasi', 'ide', 'terobos', 'prestasi']",1.0
+"['gaya', 'nggedabrumu', 'tanding']",0.0
+['bacot'],0.0
+"['bilang', 'biaya', 'rumah', 'sakit', 'mahal', 'rumah', 'sakit', 'puskesmas', 'tuh', 'layan', 'biaya', 'jangkau', 'masyarakat']",1.0
+"['benar', 'banyak', 'harga', 'mahal', 'masuk', 'akal']",0.0
+"['omong', 'bawa', 'rakyat', 'miskin', 'jakarta', 'bikin', 'miskin', 'cengengesan']",0.0
+"['hukum', 'baik', 'klou', 'ekonomi', 'susah', 'dari', 'zaman', 'zaman', 'susah', 'ubah']",0.0
+"['nis', 'tolong', 'tinggal', 'mana', 'deh', 'bpjs', 'woyy', 'serbaa', 'gratis', 'tis', 'tis', 'tis', 'kerja', 'ngehasut', 'orang', 'terus', 'presiden', 'astaga']",1.0
+"['jakarta', 'amburadul', 'indonesia']",1.0
+"['wankibull', 'rajin', 'usaha', 'ngibull']",0.0
+"['manusia', 'kerja', 'cari', 'salah', 'orang', 'kerja', 'prestasi', 'ketik', 'google', 'gubernur', 'bodoh', 'nama', 'muncul']",0.0
+"['aduh', 'muter', 'puyeng']",0.0
+"['cocok', 'kamu', 'pres', 'jakarta', 'urus', 'urus', 'negara', 'kamu', 'lebih', 'cocok', 'guru', 'sama']",0.0
+"['rumah', 'sakit', 'rumah', 'sehat']",0.0
+"['raja', 'bacot', 'omong', 'kosong', 'tahun', 'benerin', 'aspal', 'jalan', 'saja', 'kok', 'tinngal', 'ngelanjutin', 'saja', 'susah', 'sekali', 'yohanis', 'yohanis']",0.0
+['sehat'],0.0
+"['deh', 'maenan', 'sekarang', 'sudah', 'bpjs', 'gotong', 'royong', 'masyarakat', 'bisa', 'obat', 'semua', 'gratis', 'sedia', 'golong', 'tetangga', 'dapat', 'gratis', 'operasi', 'jadi', 'tolong']",0.0
+['massaa'],0.0
+"['gagal', 'tangan', 'covid', 'dki']",0.0
+"['komen', 'positif', 'tanda']",0.0
+['abunawas'],0.0
+"['kabar', 'rumah', 'sehat', 'pakah', 'jadi', 'kayak']",0.0
+"['lambe', 'ora', 'mutu', 'sedih']",0.0
+"['sakit', 'kalo', 'bpjs', 'dokter', 'saran', 'pakai', 'bpjs']",0.0
+"['calon', 'pimpin', 'bicara', 'pesimis', 'selalu']",0.0
+"['otomatis', 'pas', 'cerocos', 'hasil', 'mbulett']",0.0
+"['bpjs', 'nis']",0.0
+"['tolong', 'henti', 'kampanye', 'nyata', 'jelek', 'tebar', 'benci', 'kasihan', 'rakyat', 'dukung', 'sakit', 'karena', 'mikir', 'perintah', 'dukung', 'mah', 'sebentar', 'kampanye', 'sehat', 'jangan', 'mirip', 'pilgub']",1.0
+"['ahli', 'tata', 'sah', 'debat']",0.0
+"['ora', 'nggagas', 'cangkemu', 'nis', 'nis']",0.0
+"['makax', 'ubah', 'rumah', 'sakit', 'rumah', 'sehat', 'biar', 'sakit']",0.0
+"['teman', 'dulunya', 'pintar', 'dukung', 'sekarang', 'goblok']",0.0
+"['ytta', 'ges']",1.0
+"['niat', 'tinggi', 'rendah', 'perintah', 'tidak', 'paham', 'bpjs', 'orang']",0.0
+"['ganti', 'nama', 'rumah', 'sehat', 'bilang', 'prestasi']",0.0
+"['sakit', 'mikir', 'lo', 'lebih', 'bayar', 'anggar', 'mark', 'hasil', 'kerja', 'tidak']",0.0
+"['kalo', 'obat', 'tidak', 'pakai', 'bpjs', 'wak']",1.0
+"['sudah', 'aneh', 'kalo', 'nyapres', 'sekror', 'sebutin', 'kalo', 'sudah', 'mah', 'saja', 'php', 'saja']",0.0
+"['bpjs', 'bagaimana', 'calon presiden', 'kayak', 'isue']",0.0
+"['omong', 'percaya']",0.0
+"['benar', 'sekolah', 'bikin', 'pusing', 'orang', 'tua', 'mahal', 'mahal', 'zaman', 'sekolah', 'jangkau', 'sekolah', 'keren', 'canggih', 'hebat', 'mahal']",0.0
+"['orang', 'tua', 'dua', 'sakit', 'operasi', 'teroid', 'sakit', 'kencing', 'manis', 'kis', 'desa', 'byar', 'alias', 'gratis']",0.0
+"['ablasio', 'retina', 'operasi', 'laser', 'istri', 'tabrak', 'operasi', 'tulang', 'anak', 'lahir', 'sesar', 'operasi', 'hernia', 'varikokel', 'sakit', 'dapat', 'obat', 'gratis', 'faskes', 'salah', 'perintah', 'sudut', 'pandang', 'lihat', 'sisi', 'orang', 'kayak', 'bpjs', 'kaya', 'indra', 'bekyi', 'byar', 'milyaran', 'sampai', 'galang', 'donasi', 'padahal', 'artis', 'embasador', 'bpjs', 'karena', 'gengsi']",0.0
+"['pas', 'gabener', 'begini', 'bukti', 'tidak ada', 'ya']",0.0
+['lawak'],0.0
+"['biaya', 'sehat', 'mahal', 'nakes', 'gaji', 'rendah', 'bawah', 'umr', 'lari', 'mana', 'uang']",0.0
+"['tong', 'kosong']",1.0
+"['kalo', 'wan', 'presiden', 'ganti', 'nama', 'rumahsakit', 'indonesia', 'rumahsehat', 'jakarta', 'wan', 'biar', 'orang', 'masuk', 'rumahsakit']",0.0
+"['lepas', 'beberapa', 'rugi', 'rumah', 'sakit', 'pasien', 'bpjs', 'tumpu', 'masyarakat', 'almarhum', 'sakit', 'jantung', 'full', 'bpjs', 'habis', 'free', 'hanya', 'bayar', 'upgrade', 'kamar', 'alhamdulillah', 'kurang', 'baik', 'manfaat', 'bpjs', 'terima', 'rakyat', 'elok', 'samping', 'hasil', 'program', 'baik', 'kontinyu']",0.0
+"['sudah', 'bpjs']",0.0
+"['deh', 'benar', 'rumah', 'sakit', 'rumah', 'sehat', 'alas', 'orang', 'sakit', 'otomatis', 'sehat', 'ubah', 'nama', 'rumah', 'sakit', 'indonesia', 'rumah', 'sehat', 'deh', 'dokter', 'obat', 'dan lain', 'otomatis', 'sehat', 'karena', 'deh', 'istilah', 'rumah', 'sakit']",0.0
+"['sakit', 'ambeien', 'parah', 'operasi', 'sembuh', 'alhamdulillah', 'allah', 'ngluarin', 'duit', 'peser', 'terimakasih', 'perintah']",0.0
+"['anda', 'memang', 'pintar', 'olah']",0.0
+"['orang', 'pintar', 'omong', 'kerja', 'becus']",1.0
+"['sinden', 'bicara', 'manis', 'sekali']",1.0
+"['apbn', 'apbd', 'sehat', 'makan', 'orang', 'sehat', 'ilegal', 'sakit', 'biaya', 'mahal']",0.0
+"['alhamdulillah', 'rumah', 'sakit', 'obat', 'pakai', 'bpjs']",0.0
+"['mana', 'sehatt']",1.0
+"['muntah', 'dengar', 'omong', 'mulut', 'ngeri']",0.0
+"['sakit', 'rumah', 'sehat', 'lupa', 'omong']",0.0
+['gula'],1.0
+"['bayar', 'bpjs', 'bayar', 'pemkot', 'namanta', 'pbi', 'samoe', 'operasi', 'lahir', 'gratis', 'tis']",0.0
+"['karena', 'beres', 'dki', 'jakarta', 'jabat']",0.0
+"['cek', 'buzzer', 'mana', 'ya', 'berita', 'nongol', 'buzzernya']",0.0
+"['betapa', 'warga', 'jakarta', 'tangan', 'covid', 'perintah', 'pusat', 'turun', 'tangan', 'langsung', 'uang', 'jakarta', 'limpah', 'banding', 'daerah', 'bangga', 'hasil', 'tangan', 'covid', 'hasil', 'kerja']",0.0
+"['tahu', 'rakyat', 'lapang', 'rakyat', 'kadrun', 'benci', 'perintah', 'anti', 'bpjs', 'guna', 'bpjs', 'berterimakasih', 'perintah', 'layan', 'sehat', 'bagus', 'purwokerto', 'ruang', 'kelas', 'ber', 'layan', 'profesional']",0.0
+"['awas', 'saja', 'kalo', 'benar', 'pilih', 'presiden', 'saja', 'buruk', 'kutuk', 'batu', 'kerikil', 'lintas', 'kereta', 'biar', 'lindesin', 'sama', 'orang']",1.0
+"['maaf', 'bapak', 'jangan', 'terllu', 'banyak', 'bicara', 'tunjuk', 'kerja']",1.0
+"['blunder', 'alhamdulillah', 'papa', 'operasi', 'katarak', 'pakai', 'bpjs', 'mama', 'gejala', 'stroke', 'pakai', 'bpjs', 'gratis']",0.0
+"['tombol', 'bacoodd']",0.0
+"['mbulett', 'koyo', 'entot', 'nek', 'omong', 'niss']",0.0
+"['bagaimana', 'orang', 'ya', 'sadar', 'gubenur', 'dki', 'tidak', 'bacot', 'saja', 'wan', 'abud']",0.0
+"['calon presiden', 'sreg']",0.0
+"['lanjut', 'omong', 'kosong', 'aniees']",0.0
+"['birokrasi', 'benerin']",0.0
+"['data', 'jalan', 'ngawur', 'data', 'pupuk']",0.0
+"['niss', 'niss', 'kurang', 'omong', 'kosong']",0.0
+"['kibulin', 'part']",0.0
+"['guyu', 'ojok', 'iki', 'dadi', 'pleciden']",0.0
+"['bpjs', 'opname', 'bayar', 'lo', 'bikin', 'ubah', 'nanti', 'hancur', 'bpjs']",0.0
+"['bpjs', 'swasta']",0.0
+"['bacoot', 'saja', 'rubah', 'nama']",0.0
+"['sdhlah', 'orang', 'indonesia', 'pintar', 'tidak', 'janji', 'manis', 'campur', 'negara', 'bos', 'bukan', 'kota', 'kabupaten', 'urus', 'terus', 'kalo', 'jadi', 'presiden', 'sehat', 'negeri', 'gimanain']",0.0
+"['janji', 'kosong', 'bual', 'rasa', 'bantu', 'perintah', 'rasa', 'sakit', 'opname', 'gratis', 'kena', 'covid', 'opname', 'gratis', 'operasi', 'katarak', 'tanam', 'lensa', 'kacamata', 'gratis', 'ubah', 'tidak', 'janji', 'muluk', 'muluk']",0.0
+"['baharu', 'nis', 'sebut', 'rumah', 'sakit', 'rumah', 'sehat']",0.0
+"['calon presiden', 'gagal', 'presiden', 'kalo', 'ganggu', 'jiwa', 'tanggung', 'bpjs']",0.0
+"['rumah', 'sakit', 'ganti', 'rumah', 'sehat', 'broh']",0.0
+"['jaman', 'presiden', 'antri', 'coba', 'cek', 'dharmais', 'tara', 'sumber', 'waras']",0.0
+"['manis', 'sakit', 'ubah', 'manis', 'sehat']",0.0
+"['busuk', 'hutan', 'rimba', 'dulu', 'jabat', 'gubernur', 'tidak', 'perhati', 'sehat', 'masyarakat', 'covid', 'lepas', 'tangan', 'bikin', 'tugu', 'peti', 'mati', 'doang', 'jabat', 'rubah', 'rumah', 'sakit', 'rumah', 'sehat', 'boro', 'pikir', 'sehat', 'masyarakat', 'dki', 'fakta', 'bohong']",0.0
+"['sorat', 'sorot', 'sorat', 'sorot', 'koyo', 'iso', 'mbenahi', 'ndeez', 'ndezz', 'gagas', 'gagas', 'sok', 'nggagas', 'padahal', 'jangan', 'tahu', 'nggagas']",0.0
+"['melet', 'weh']",0.0
+['halu'],0.0
+"['kalo', 'blusukan', 'bawa', 'dukung', 'mirip', 'amin', 'rais', 'roki', 'gerung', 'biar', 'masyarakat', 'percaya']",0.0
+"['operasi', 'gratis', 'bayar', 'bpjs', 'bpjs', 'kena', 'puluh', 'juta', 'cuba', 'bayar']",0.0
+"['teori', 'begitu', 'nanti', 'praktek', 'settingan']",0.0
+"['arang', 'orang', 'jalan', 'deh', 'harap', 'orang', 'operasi', 'bypass', 'jantung', 'gratis', 'pakai', 'bpjs']",0.0
+['ndebrus'],0.0
+"['lapor', 'karena', 'berita', 'bohong', 'bohong', 'karena', 'bukti', 'kemenkes ri', 'bpjskesehatan ri']",0.0
+"['saudara', 'saya', 'pakai', 'bpjs', 'operasi', 'juta', 'gratis', 'ngadi', 'drun', 'anda', 'nyinyir', 'perintah', 'kerja', 'saja', 'jakarta', 'hancur', 'lebur']",0.0
+"['hidup', 'rumah', 'parkir', 'air', 'hidup', 'yaman']",0.0
+"['tidak', 'bicara', 'scope', 'indonesia', 'dki', 'jakarta', 'amburadul']",0.0
+"['orang', 'miskin', 'jkn', 'gratis', 'sakit']",1.0
+"['nies', 'nies']",0.0
+"['berakk', 'kebon']",0.0
+"['bpjs', 'nis', 'kalo', 'bicara', 'jangan', 'bohong']",0.0
+"['program', 'perintah', 'mbok', 'mengepoi', 'sedikit', 'kenapa', 'bpjs', 'sehat', 'bayar', 'sesuai', 'kelas', 'kis', 'gratis', 'rakyat', 'miskin', 'sudah', 'program', 'perintah', 'mbok', 'galak', 'dukung', 'ikut', 'program', 'perintah', 'lahir', 'cesar', 'awat', 'bayi', 'rumah', 'sakit', 'gratis', 'program', 'perintah']",0.0
+"['politisasi', 'rakyat', 'orang', 'miskin', 'gratis', 'ber', 'obat', 'pakai', 'bpjs', 'kalo', 'ikut', 'bpjs', 'salah', 'aparat', 'mantan', 'gubenur', 'pura', 'pura', 'fakta', 'gubernur', 'tahun', 'orang', 'miskin', 'dki', 'juta', 'jiwa', 'ribu', 'jiwa', 'ribu', 'jiwa', 'september', 'jabat', 'ribu', 'jiwa', 'data', 'bps', 'berita', 'megapolitan', 'apbd', 'dki', 'besar', 'indonesia', 'percaya', 'lihat', 'rekam', 'jejak', 'kerja', 'pandai', 'bicara']",0.0
+"['terus', 'ubah', 'rakyat', 'tunggu', 'solusi', 'kalo', 'rakyat', 'suruh']",0.0
+"['ponakan', 'kena', 'kanker', 'darah', 'sudah', 'bulna', 'awat', 'full', 'cover', 'pakai', 'bpjs', 'nis', 'nis', 'henti', 'jual', 'aneh']",0.0
+"['orang', 'kritik', 'data', 'bisa', 'calon', 'presiden']",0.0
+"['alhamdulillah', 'saudara', 'bantu', 'bpjs', 'pasang', 'ring', 'masuk', 'icu', 'cuci', 'darah', 'tanggung', 'bpjs', 'bayang', 'pakai', 'uang', 'jual', 'rumah', 'saran', 'kalo', 'statement', 'cek', 'ricek', 'lihat', 'fakta', 'lapang']",0.0
+"['maaf', 'saudara', 'bpjs', 'jamin', 'sehat', 'rakyat', 'indonesia', 'maaf', 'teman']",0.0
+"['promosi', 'bekam', 'ruqiah', 'kencing', 'onta']",0.0
+"['rakyat', 'pulang', 'rumah', 'sakit', 'terus', 'jatuh', 'miskin', 'yohanis']",0.0
+"['tolong', 'cek', 'urin', 'orasi', 'kok', 'omong', 'ngelantur', 'solusi', 'orang', 'zaman', 'sekarang', 'bpjs', 'bantu', 'banding', 'rezim', 'surabaya', 'milik', 'partai', 'demokrat']",0.0
+"['halah', 'sok', 'sorot', 'sehat', 'masyarakat', 'indonesia', 'ujung', 'rumah', 'nama', 'rumah', 'sakit', 'rumah', 'sehat', 'persis', 'laku', 'gubernur', 'dki']",0.0
+"['mungkin', 'lupa', 'gubernur', 'kis', 'bpjs']",0.0
+"['gubernur', 'bangun', 'puskesmas', 'puskesmas', 'bicara', 'tentang', 'sehat', 'cakup', 'luas', 'sing', 'percaya']",0.0
+"['bpjs', 'masyarakat', 'obat', 'gratis', 'layan', 'tingkat']",0.0
+"['orang', 'bicara', 'saya', 'quran', 'surat', 'taubah', 'kaum', 'munafik']",0.0
+"['omong', 'lo', 'sudah', 'jalan', 'gabener', 'dki', 'bro']",0.0
+"['kalo', 'bohong', 'jago', 'orang', 'sulit', 'lawan', 'kapann', 'taubat']",0.0
+"['pleciden', 'rubah', 'nama', 'rumah', 'sakit', 'mwnjadi', 'rumah', 'sehat', 'begitu', 'sakit', 'langsung', 'sehat', 'obat']",0.0
+"['alhamdulillah', 'presiden', 'kerja', 'cerdas', 'amanah', 'jujur', 'kayak', 'presiden', 'bisa', 'utang', 'modal', 'oligarki', 'partai', 'ekonomi', 'hukum', 'demokrasi', 'hancur']",0.0
+"['woi', 'nol', 'apartemen', 'bagaimana', 'kabare']",0.0
+"['rakyat', 'dengar', 'pidato', 'masuk']",0.0
+"['halu', 'talib']",0.0
+"['sakit', 'bicara']",0.0
+"['alamaakk', 'salah', 'doski', 'sistim', 'sehat', 'bpjs', 'tolong']",0.0
+"['lupa', 'rumah', 'sehat']",0.0
+"['medan', 'enteh', 'boed', 'ngocap', 'saja', 'pandeh']",0.0
+"['mari', 'contoh', 'rakyat', 'jakarta', 'masyarakat', 'gratis', 'trjangkau', 'sehat']",0.0
+"['main', 'diawann', 'saja', 'bos', 'obat', 'pakai', 'bpjs', 'gratis', 'tiss']",1.0
+"['goblok', 'habis', 'habis', 'calon presiden']",0.0
+"['mong', 'koyok', 'ngene', 'wae', 'presiden', 'opo', 'dukung', 'salah', 'ayo']",0.0
+['gomball'],0.0
+"['masuk', 'sumur', 'resap', 'bagaimana']",0.0
+"['poppa', 'ingat', 'nganies', 'sampai', 'rakjat', 'pinggir', 'rakjat', 'miskin', 'rakjat', 'sedeng', 'syakit', 'keras', 'serta', 'keluarga', 'des', 'kerabat', 'muarrah', 'buessarr', 'sampai', 'marah', 'tahu', 'kalo', 'sedeng', 'suara', 'penting', 'untuk', 'cape', 'titik', 'puncak', 'janji', 'plasu', 'janji', 'nol']",0.0
+"['tanggung', 'jawab', 'omong', 'akhirat']",0.0
+"['deh', 'obat', 'habis']",0.0
+"['indak', 'bpjs', 'gratis', 'memang', 'habis', 'miskin', 'anehh']",0.0
+"['orang', 'kepala', 'mulut', 'saja', 'otak', 'sedikit']",0.0
+"['kalo', 'kayak', 'masuk', 'rumah', 'sehat']",0.0
+"['omong', 'saja', 'bosan', 'dengar']",0.0
+"['dukung', 'sehat']",1.0
+['lambene'],0.0
+"['cakap', 'saja', 'pande', 'kerja', 'amburadul', 'kalo', 'karena', 'maju', 'jakarta', 'ambiradul', 'tang', 'jpo', 'jis', 'kepake', 'jalur', 'sepeda', 'kepake', 'batu', 'gabon', 'bambu', 'mesum', 'gagal', 'baik', 'oke', 'gagal', 'resap', 'air', 'bumi', 'gagal', 'mrt', 'lrt', 'kreta', 'api', 'cepat', 'jalan', 'bagus', 'tol', 'bangun', 'bantu', 'start', 'digital', 'bagus', 'dunia', 'ekonomi', 'bagus', 'dunia', 'military', 'bagus', 'dunia']",0.0
+"['puskesmas', 'bpjs', 'mahal', 'iya', 'mahal', 'kalo', 'dollar']",0.0
+"['berita', 'gambar', 'orang', 'malas', 'lihat', 'pintar', 'omong', 'kerja', 'wakru', 'gubernur', 'dki', 'tebang', 'pohon', 'monas', 'pintar', 'bikin', 'lubang', 'bikin', 'celaka', 'bayar']",0.0
+"['menungso', 'sithok', 'gaweane', 'nyacat', 'nyocot', 'tok', 'nek', 'kon', 'kerjo', 'kok']",0.0
+"['alhamdulillah', 'lahir', 'sesar', 'gratis']",0.0
+"['wan', 'abut', 'naturalisasi', 'kewarganegaraan', 'masoke', 'dalam', 'bumi']",0.0
+"['rumah', 'sehat', 'dki', 'jakarta', 'bagaimana', 'wan', 'abud', 'omong doang']",0.0
+"['wah', 'iya', 'begitu', 'kacamata', 'sudah', 'ganti', 'deh', 'gelap']",0.0
+"['obat', 'gratis', 'tanggung', 'bpjs', 'layan', 'bagus', 'dokter', 'suster', 'bantu', 'pasien']",0.0
+"['dengar', 'bicara', 'mending', 'lihat', 'ipin', 'upin']",0.0
+"['manusia', 'halu']",0.0
+"['ahhaahhahaa', 'abang', 'mah', 'mmng', 'hebat', 'khusus', 'bang', 'ganti', 'nama', 'indonesia']",0.0
+"['negara', 'indak', 'maju', 'nis', 'mundur', 'jatuh', 'kalo', 'abang', 'mimpin', 'mending', 'doosen', 'deh']",0.0
+"['gubernur', 'jakarta', 'amburadul']",0.0
+"['waton', 'nyontong']",1.0
+"['anan', 'obat', 'puskesmas', 'bawa', 'ktp', 'bayar', 'apa']",0.0
+"['saja', 'tidak', 'kamu', 'wujud', 'normalisasi', 'naturalisasi', 'tidak', 'wujud', 'konon', 'kamu', 'bahas', 'tentang', 'sehat', 'indonesia', 'kwkwkwkwk']",0.0
+"['hanya', 'upah', 'kerja', 'gaji', 'buruh', 'lepas', 'murah', 'harga', 'kerja', 'buruh', 'lepas', 'swasta', 'naik', 'persen', 'minimal', 'tara', 'gaji', 'anggota', 'dewan', 'rakyat', 'kuat', 'obat']",0.0
+['alah'],1.0
+"['pilih', 'partisipasi', 'selamat', 'indonesia']",0.0
+"['serah', 'deh']",0.0
+"['mantap', 'kah', 'negeri', 'pimpin', 'sosok', 'psycopat']",0.0
+"['habis', 'undang', 'undang', 'omnibuslaw', 'persen', 'apbn']",0.0
+"['kayak', 'orang', 'tlol', 'malu']",0.0
+"['kemarin', 'periksa', 'mata', 'pakai', 'bpjs', 'kerabat', 'operasi', 'pakai']",0.0
+"['gilanii', 'niss', 'omong']",1.0
+"['operasi', 'pakai', 'bpjs', 'bayar', 'peser', 'loh']",0.0
+"['nies', 'selagi', 'obat', 'antri', 'jangan', 'bual', 'rombak']",0.0
+"['wan', 'abud']",0.0
+"['niniss', 'tahu', 'pakai', 'fasilitas', 'bpjs']",0.0
+"['logika', 'bagaimana']",0.0
+"['omong', 'ssuai', 'fakta', 'tuntut', 'hati', 'kal', 'bicara']",0.0
+"['mbuat', 'nyata', 'bodoh', 'memang', 'kbnyakan', 'masyarakat', 'mudah', 'bodoh', 'orang', 'pintar']",0.0
+['bulshit'],0.0
+"['banyak', 'bacot', 'saja', 'laku', 'nama', 'rumah', 'sakit', 'rubah', 'rumah', 'sehat']",0.0
+"['orang', 'licik', 'model', 'begini', 'mimpi', 'pimpin', 'nomer', 'negara', 'moga', 'tuhan', 'lindung', 'bangsa', 'hancur', 'jalan', 'kepada', 'pimpin', 'negara']",0.0
+"['bpjs', 'kis']",1.0
+"['memang', 'betul', 'fakta']",0.0
+"['bapaakk', 'salahsebut', 'rumash', 'sakitt', 'kan', 'ganti', 'nama', 'rumah', 'sehaatt', 'aauu', 'ganti', 'dach']",0.0
+"['moga', 'presiden', 'butuh', 'ubah', 'indonesia', 'rumah', 'sakit', 'rubah', 'sugih', 'datang', 'sakit', 'pulang', 'kayak', 'raya']",0.0
+"['anus', 'gubernur', 'orang', 'jakarta', 'sakit', 'rumah', 'sehat', 'sembuh', 'miskin', 'penasaran']",0.0
+['prreett'],0.0
+"['cerita', 'jaman', 'orba', 'soeharto', 'bpjs', 'kis']",0.0
+"['malu', 'bajar', 'bpjs']",0.0
+"['rumah', 'sakit', 'indonesia', 'ubah', 'rumah', 'sehat', 'orang', 'sakit', 'rumah', 'sehat', 'rumah', 'sehat', 'rumah', 'sakit']",0.0
+"['butuh', 'masyarakat', 'indonesia', 'kerja']",1.0
+"['gedabrus', 'ngene', 'iki']",0.0
+"['woii', 'mana', 'kamu', 'bilang', 'istri', 'kemarin', 'opname', 'gratis', 'perintah', 'kamu', 'omong']",0.0
+"['negara', 'saja', 'negara', 'maju', 'beres', 'maksudna', 'ambigu']",0.0
+"['bacot', 'nies', 'urus', 'dki', 'saja', 'becus']",0.0
+"['benah', 'selesai', 'ucap', 'bibir', 'manis', 'balik', 'bpjs', 'iur', 'bantu', 'biaya', 'kis', 'iur', 'gratis', 'biaya']",1.0
+"['periksa', 'dokter', 'lihat', 'video', 'kena', 'gejala', 'asma', 'mangap']",0.0
+"['nggedabrus', 'sumur', 'resap']",0.0
+"['layak', 'jual', 'rekam', 'jejak', 'buruk', 'hanya', 'omong', 'saja']",0.0
+"['kbykan', 'ide', 'bacot', 'doang', 'realisassinya', 'jakarta', 'ancurr', 'wan', 'aibon']",0.0
+"['komen', 'bilang', 'bpjs', 'nanggung', 'moga', 'ngalamin', 'sakit', 'daerah', 'bill', 'puluh', 'juta', 'tanggung', 'bpjs', 'amin']",0.0
+"['anak', 'operasi', 'kontruksi', 'tanggung', 'bpjs', 'tunggu', 'operasi', 'temu', 'asal', 'belitung', 'timur', 'anak', 'usia', 'perempuan', 'derita', 'kanker', 'rahang', 'seudah', 'jalan', 'operasi', 'kali', 'biaya', 'tanggung', 'bpjsdan', 'hebat', 'dokter', 'bedah', 'dukung', 'pimpin', 'indonesia', 'keren', 'makadengan', 'hormat', 'omong', 'kalo', 'bohong']",0.0
+"['rakyat', 'saja', 'dengar', 'manuisa']",0.0
+"['belum', 'tahu', 'bpjs']",0.0
+"['iya', 'bagaimana', 'bpjs', 'sudah', 'kayak', 'tidak', 'anggota', 'pantas', 'erti']",0.0
+"['rumah', 'sehat', 'rumah', 'herbal', 'presiden']",0.0
+['pilih'],0.0
+"['sainganny', 'bakal', 'lenggang']",0.0
+['ayo'],0.0
+"['prestasi', 'tidak', 'suka', 'nonton', 'film', 'porno', 'pula', 'begini', 'calon']",0.0
+"['presiden', 'cerdas', 'cinta', 'rakyat', 'sudah']",0.0
+"['wapresnya', 'insya', 'allah', 'orang', 'menang', 'bagai', 'presiden']",0.0
+"['pasrah', 'bayang', 'presiden', 'atur', 'negara']",1.0
+"['pndukung', 'kalo', 'otomatis', 'win', 'kubu', 'kenal', 'gencar', 'kampanye', 'saja', 'pas', 'dapat', 'rekor', 'kampanye', 'beratt']",0.0
+"['mantap', 'baik', 'harap']",0.0
+"['tugas', 'partai', 'mah', 'sudah', 'nurut', 'saja', 'sama', 'mak']",0.0
+"['tuju', 'calon', 'wakil', 'presiden', 'rekam', 'jejak', 'lihat', 'kelas', 'beda']",0.0
+"['nama', 'tugas', 'partai', 'mah', 'nurut', 'saja']",0.0
+"['dukung', 'presiden']",1.0
+['saja'],0.0
+['pas'],1.0
+['maju'],0.0
+['pasrah'],1.0
+"['tentu', 'buat', 'milu', 'arti', 'daulat', 'rakyat', 'sampai', 'kiamat', 'tetap', 'masyarakat', 'dapat', 'konyol']",1.0
+"['serah', 'tugas', 'partai']",0.0
+['presiden'],1.0
+"['pasangno', 'siapa', 'wae', 'nyuwunsewu', 'kulo', 'smpun', 'mantap', 'pilih', 'presiden']",0.0
+"['dukung', 'berat', 'mohon', 'maaf', 'pilih', 'tugas', 'paratai']",0.0
+"['modalin', 'kampanye']",1.0
+"['nama', 'tugas', 'partai']",0.0
+"['calon presiden', 'tentu', 'partai', 'usung', 'wajar', 'omong', 'begitu', 'nama', 'koalisi', 'harusbdi', 'bicara', 'partai', 'koalisi', 'wajar', 'karwna', 'swmuabpartai', 'mwngusulkan', 'calon']",1.0
+"['kalo', 'indonesia', 'pengin', 'hancur', 'amburadul', 'pilih']",1.0
+['mafud'],0.0
+"['bagaimana', 'partai', 'nama']",0.0
+"['wartawan', 'buang', 'buang', 'sekali']",1.0
+"['presiden', 'pimpin', 'tinggi', 'tunduk', 'penting', 'rakyat', 'penting', 'partai']",0.0
+"['kalo', 'indonesia', 'hancur', 'pilih', 'presiden']",1.0
+"['menang', 'indonesia', 'jaya', 'indonesia', 'gila']",0.0
+"['sudah pasti', 'mari', 'doa', 'calon presiden', 'abadi', 'indonesia', 'amin']",0.0
+"['urus', 'provinsi', 'saja', 'tidak', 'becus', 'nyalon', 'presiden', 'astaga']",0.0
+"['bismillah', 'rasid', 'pimpin']",0.0
+['pasang'],0.0
+"['jangann', 'erick', 'begitu']",1.0
+"['ketua', 'dah', 'tidak', 'cocok', 'pimpin', 'negeri']",0.0
+"['kacung', 'nurut', 'tuan']",1.0
+"['pokok', 'jangan', 'pilih', 'omong', 'pintar', 'kerja', 'nol', 'kagak', 'kerja']",0.0
+"['pilih', 'kader', 'kah', 'paham', 'kenapa', 'calon', 'karena', 'ulang', 'sukses', 'begitu', 'duuh', 'mending', 'saja', 'sudah', 'kerja', 'daripada', 'orang', 'tukang', 'joging', 'tukang', 'bikin', 'konten', 'normal', 'nonton', 'video', 'dewsa', 'nol', 'prestasi']",0.0
+"['begitu', 'kacung', 'hilir', 'sampai', 'ikn', 'saja', 'setop', 'mending', 'kacung', 'partai', 'daripada', 'kacung']",0.0
+"['prei', 'banteng', 'banteng', 'lurr']",0.0
+"['bin', 'kadal']",0.0
+"['calon', 'wapresnya', 'keluarga', 'pilih']",1.0
+"['geisz chalifah', 'hukum', 'menang', 'telak']",0.0
+['mohmahfudmd'],1.0
+"['suka', 'banget', 'ganjar pranowo', 'duet', 'kombinasi', 'paket', 'moga', 'wujud']",1.0
+"['lebih', 'pilih']",0.0
+"['aldi', 'saja', 'lawak']",0.0
+"['tentu', 'iya', 'bagaimana', 'partai']",0.0
+"['tidak', 'deh', 'febri', 'ardianto']",0.0
+"['perugas', 'partai', 'calon', 'presiden']",0.0
+"['pilih', 'wakil']",0.0
+"['sule', 'saja', 'mumpung', 'santai']",0.0
+"['pasanganya', 'teman', 'bangga', 'evryliana']",0.0
+"['bang', 'bang', 'kerja', 'eh', 'ganjar pranowo', 'tahu', 'nonton', 'bokhep']",1.0
+"['moms', 'sharing', 'progam', 'diet', 'hilang', 'perut', 'buncit', 'bagaimana', 'diet', 'langsing', 'kadang', 'suka', 'insecure', 'kalo', 'ngumpul', 'teman']",0.0
+"['cocok', 'pasang', 'arinal', 'gubernur', 'lampung']",1.0
+['jos'],1.0
+"['omong', 'serah', 'partai']",0.0
+['pasrahh'],0.0
+"['aldi', 'win', 'putar']",0.0
+"['tolong', 'barangkali', 'solusi', 'sudah', 'leber', 'info', 'produk', 'langsing', 'bagus']",0.0
+"['tolong', 'barangkali', 'solusi', 'sudah', 'lebar', 'info', 'produk', 'langsing', 'bagus']",0.0
+"['pasang', 'erick', 'tohir']",0.0
+['aniss'],1.0
+"['calon', 'berat', 'menara', 'bts', 'salah', 'satu', 'suami', 'puan', 'maharani', 'bos', 'usaha', 'saham', 'kait', 'pdip', 'berat', 'cendana', 'turun', 'selesai', 'selesai', 'tambah', 'kuasa', 'berat', 'pilkada', 'dki', 'jakarta', 'pakai', 'ayat', 'mayat', 'omong doang', 'saja', 'prihatin', 'dah', 'narasinewsroom', 'najwashihab']",0.0
+"['tugas', 'partai', 'manut', 'ketua', 'presiden', 'nyonya', 'ketua']",1.0
+['cocok'],1.0
+"['ogah', 'pilih', 'tugas', 'partai', 'terus', 'ngegagalan', 'bola', 'piala', 'dunia', 'kemarin']",1.0
+['panji'],0.0
+"['puan', 'saja', 'dih', 'repot']",0.0
+['saran'],1.0
+"['kok', 'pasrah', 'calon', 'presiden', 'situ', 'kok', 'mirip', 'tugas', 'partai', 'asli', 'bos', 'nurut', 'bongkoqan']",1.0
+"['belakang', 'tetap', 'oma']",1.0
+"['pilih', 'redbull', 'pilih', 'agem', 'kader', 'manekin', 'tugas', 'partai', 'agem']",1.0
+"['abu', 'janda', 'joss']",1.0
+['kamu'],1.0
+"['alhamdulillah', 'amin']",0.0
+"['ramal', 'type', 'tua', 'sombong', 'pilih', 'orang', 'kuat', 'percaya', 'menang', 'pilih', 'wapres', 'lemah', 'saing']",0.0
+"['galaa', 'pegawai', 'partai', 'ayahab']",0.0
+"['kecuali', 'yess']",0.0
+"['usul', 'calon wakil presiden']",1.0
+"['sendiko', 'dawuh']",0.0
+"['nitip', 'sendal']",1.0
+"['fadli', 'zon', 'saja']",0.0
+"['cocok', 'kakek', 'sudah', 'pas', 'gagas', 'tebar', 'link', 'damai']",0.0
+"['pdip', 'pilih']",0.0
+"['jakarta tengah', 'semarang', 'solo', 'woy', 'malu', 'lihat', 'gubernut', 'kabur', 'duluan', 'belum', 'beres', 'demak', 'kam', 'bajir', 'noh', 'belum', 'jalan', 'rusak', 'miskin', 'jakarta tengah', 'tidak', 'malu']",1.0
+"['penting', 'pasang', 'harus', 'buanyak', 'uangg']",0.0
+"['coba', 'bambang', 'cocok']",0.0
+"['aldi', 'dar', 'saran']",0.0
+"['zaya', 'harap', 'menang', 'zika', 'duet', 'puan', 'paszti', 'zaya', 'pilih']",0.0
+['tugas'],1.0
+"['kalo', 'langsung', 'menang', 'tampa', 'putar', 'putar']",0.0
+"['ulama', 'kyai', 'habaib']",0.0
+"['tetap', 'pilih']",1.0
+"['konsep', 'ekonomi', 'newmind', 'jalan']",0.0
+"['syaa', 'allah', 'calon', 'pilih', 'aniesforpresiden']",0.0
+"['kagum', 'kalo', 'masuk', 'merah', 'otomatis', 'angkat', 'tangan']",0.0
+"['kenapa', 'pasrah', 'karena', 'tugas', 'partai']",1.0
+"['allah', 'swt', 'tolong']",1.0
+"['presiden', 'coblos', 'banteng', 'merah', 'sak', 'lawase']",0.0
+"['baik', 'oke']",0.0
+"['maaf', 'tentu', 'mah', 'tinggal', 'arah', 'saja', 'ya']",1.0
+"['tidak', 'suka', 'calon', 'presiden', 'partai', 'pilih', 'calon presiden', 'indonesia', 'saja']",0.0
+"['duga', 'ferguso']",0.0
+"['bicara', 'banyak', 'nonton', 'film', 'porno']",1.0
+['mud'],1.0
+"['lanjut', 'presiden', 'gafud']",1.0
+"['tombol', 'presiden']",1.0
+"['lanjut', 'kita', 'presiden']",0.0
+['lanjut'],1.0
+"['bismillah', 'indonesia', 'amin', 'allah']",1.0
+"['best', 'pokok']",0.0
+['presiden'],0.0
+"['team', 'bayar']",0.0
+"['menang', 'putar', 'amin']",0.0
+"['satu', 'jual', 'sate', 'madura', 'indonesia', 'pro', 'presiden', 'wapres', 'merdeka']",0.0
+"['baju', 'hitam', 'warna', 'hitam', 'warna', 'negatif', 'baju', 'putih', 'harus', 'baju', 'warna', 'merah', 'merah', 'putih']",0.0
+"['bismillah', 'menang', 'putar']",1.0
+"['pidato', 'keren', 'deh']",1.0
+"['bismillah', 'hasil']",1.0
+"['mantap', 'asli', 'orang', 'indonesia', 'turun', 'arab', 'cina']",1.0
+"['amin', 'moga', 'lancar']",1.0
+"['bismillah', 'menang', 'presiden']",1.0
+"['alhamdulillah', 'daftar', 'semua', 'dukung', 'antusia']",1.0
+['presiden'],1.0
+"['visi', 'misi', 'program', 'digitalisasi', 'libat', 'peran', 'generasi', 'muda', 'reformasi', 'hukum', 'pakar', 'prof', 'uji', 'ekonomi', 'hijau', 'biru', 'anti', 'korupsi', 'bukti', 'pemda', 'jakarta tengah', 'data', 'lebih', 'fakir', 'miskin', 'seluruh', 'pelosok', 'lugas', 'realistis', 'paslon', 'ngambang']",1.0
+['amin'],0.0
+['soolliidd'],1.0
+"['lanjut', 'presiden', 'amin']",1.0
+['gama'],1.0
+"['inshaa', 'allah', 'indonesian', 'gold', 'young', 'generation', 'smart', 'presiden', 'religius', 'nasionalist']",1.0
+"['insya', 'allah', 'pasang']",1.0
+"['moga', 'lanjut', 'presiden']",1.0
+['baik'],1.0
+"['gofud', 'insyaallah']",1.0
+"['bismillah', 'menang', 'pilpres']",1.0
+"['mantap', 'satu', 'maju']",1.0
+"['semangat', 'moga', 'amanah', 'pilih']",1.0
+"['ramai', 'sekali', 'cinta']",1.0
+"['semangat', 'moga', 'menang']",1.0
+"['sehat', 'moga', 'dukung']",1.0
+['maju'],1.0
+"['pasang', 'ideal', 'turut', 'rekam', 'jejak', 'bagus', 'taruh', 'harap']",1.0
+"['sehat', 'nggih', 'juang']",1.0
+"['bismillah', 'menang', 'pilpres']",1.0
+"['moga', 'pimpin', 'rakyat']",1.0
+"['alhamdulillah', 'resmi', 'moga', 'menang']",1.0
+"['sah', 'daftar', 'kpu', 'moga', 'lancar', 'sampai', 'pilpres', 'moga', 'menang']",1.0
+['dua'],1.0
+"['pasang', 'cocok', 'menang', 'pesta', 'demokrasi']",1.0
+"['keren', 'sehat', 'pimpin', 'rakyat']",1.0
+"['satu', 'negeri', 'indonesia']",1.0
+"['terus', 'jokowii']",1.0
+['moga'],1.0
+"['satu', 'negeri']",1.0
+"['keren', 'panutan', 'sekali']",1.0
+"['mantap', 'dihatiikuu']",1.0
+"['pasang', 'pas', 'pimpin']",1.0
+"['lanjut', 'kita', 'presiden', 'bos']",1.0
+['mantap'],1.0
+"['keren', 'sekali', 'panutankuu']",1.0
+"['cocok', 'dipasangankan']",1.0
+"['dukung', 'kalang']",1.0
+"['bismillah', 'indonesia', 'sejahtera']",1.0
+"['hasil', 'semangat']",1.0
+"['sejarah', 'bukti', 'presiden', 'langgeng', 'nama', 'belakang', 'soekarno', 'soeharto', 'yudoyono', 'widodo']",1.0
+"['animo', 'masyarakat', 'dalam', 'sambut', 'antar', 'kpu']",1.0
+"['selamat', 'sukses']",1.0
+"['pilih', 'semangat', 'ya']",1.0
+"['idola', 'memang', 'keren', 'banget', 'tidak ada', 'obat']",1.0
+"['masya', 'allah', 'senang', 'sekali', 'lihat', 'pasang', 'pas', 'sekali']",1.0
+"['moga', 'pilih']",1.0
+"['yuk', 'presiden']",1.0
+"['menang', 'indonesia', 'jaya']",1.0
+['bissmillah'],1.0
+"['konsep', 'rajapati', 'orang', 'kasar', 'palusabit', 'terap', 'koalisi', 'partai']",1.0
+"['hati', 'hati', 'tulis', 'media', 'sosial', 'khawatir', 'rumus', 'rumus', 'hidup', 'pakai', 'lawan', 'salah', 'raja']",1.0
+"['bicara', 'singkat', 'padat', 'lebay', 'mirip']",1.0
+"['fokus', 'palestine']",1.0
+['amin'],1.0
+"['partai', 'pdi', 'pilih']",1.0
+['mas'],1.0
+['pilih'],1.0
+['hati'],1.0
+"['hijau', 'brti', 'amin']",1.0
+['jilat'],1.0
+"['kasihan', 'telikung', 'kang', 'martabak']",1.0
+"['yes', 'erick', 'gabung']",1.0
+"['salah', 'amunisi', 'kubu', 'all']",1.0
+"['mantap', 'rapat', 'baris', 'pasu']",0.0
+"['moga', 'sesal', 'kecewa']",0.0
+"['opsi', 'periode', 'tuju']",0.0
+"['urus', 'bumn', 'neko']",0.0
+"['cawe', 'cawe']",1.0
+"['biar', 'hijau', 'bagaimana', 'food', 'estate', 'hancur', 'hutan', 'tropis', 'gagal']",1.0
+"['kalah', 'banyak', 'masuk', 'penjara', 'bongkar', 'aib', 'menteri']",0.0
+"['maksud', 'menteri', 'begitu']",1.0
+"['masih', 'pilih', 'calon presiden', 'blkgnya', 'kelompok', 'intoleren', 'amrik']",1.0
+"['cacat', 'konstitusi']",1.0
+"['hijau', 'simbol', 'bangkit', 'islam', 'aminajadulu']",1.0
+"['gila', 'kuasa', 'kuasa', 'proyek', 'proyek', 'mandeg', 'bahaya', 'taa']",0.0
+"['utang', 'vendor', 'waskita', 'bayar', 'woy', 'menteri', 'bumn', 'kagak', 'prestasi', 'luhut', 'atas']",0.0
+"['pasang', 'langgar', 'konstitusi']",1.0
+"['bumn', 'saja', 'kacau', 'balau']",0.0
+['hutang'],1.0
+"['bumn', 'urus', 'boskuu', 'bayarin', 'utang']",0.0
+"['pensiun', 'mbah', 'biar', 'indonesia', 'urus', 'fit', 'cerdas']",1.0
+"['presiden', 'negeri', 'mundur', 'best', 'berfikirnya', 'sempit', 'jilat', 'kuasa']",0.0
+"['urus', 'bumn', 'benar', 'wara', 'wiri', 'urus']",0.0
+"['underdog', 'kesini', 'unggul', 'tetap', 'stabil', 'dukung', 'pedoman', 'ideologi', 'spesifik', 'mulus', 'terus', 'merosot', 'tajam', 'kejut', 'lanjut', 'balik', 'arah', 'hati', 'kesandung', 'lisan', 'media', 'kayak', 'presiden', 'sesuai', 'pilih', 'wajib', 'menghoramati', 'dukung']",0.0
+"['coba', 'bicara', 'diskusi', 'bangsa', 'undang']",0.0
+"['bismillah', 'amin', 'saja', 'presiden', 'wapres']",0.0
+"['ancang', 'cari', 'ganti', 'cawaprrs', 'sekarang', 'mundur', 'karena', 'putus', 'ubah']",0.0
+"['kode', 'alam', 'hijau', 'menang']",0.0
+"['suport', 'all', 'presiden']",0.0
+"['iya', 'tenang', 'saja', 'indonesia', 'hijau', 'hijau', 'mata', 'kalo', 'lihat', 'duit', 'maksdnya']",0.0
+"['yes', 'all']",0.0
+"['partai', 'kebo', 'panik', 'tim', 'menang', 'sudah', 'pindah', 'haluan', 'partai', 'kebo', 'tenggelam']",0.0
+"['sudah', 'tua', 'mndingan', 'istirahat', 'tobat']",0.0
+"['titip', 'negara', 'hijau', 'penanggungjawab', 'food', 'estate', 'hmm']",0.0
+"['suruh', 'urus', 'rumah', 'tangga', 'saja', 'hijau', 'kalo', 'gragas', 'kuasa']",0.0
+"['ingat', 'negara', 'indonesia', 'pimpin', 'orang', 'haus', 'kuas', 'ingat', 'mbah', 'kakung', 'indonesia', 'hancur', 'indak', 'kuasa', 'cam']",1.0
+"['pengin', 'sekali', 'cuci']",0.0
+"['buah', 'dari', 'sabar', 'hina', 'fitnah', 'manusia', 'manusia', 'dajjal', 'santuy', 'santun', 'tanggap', 'alhamdulillah', 'dukung']",0.0
+"['muda', 'cinta', 'olahraga', 'ikut', 'jalan', 'erickthohir', 'all']",1.0
+"['erickthohir', 'sepak', 'bola', 'saja', 'urus', 'jangan', 'terjun', 'dunia', 'begitu']",0.0
+"['unggul', 'putar', 'nduk', 'genduk', 'wiwin']",1.0
+"['anak', 'cerdas', 'mimpin', 'indonesia', 'hijau', 'terima', 'kasih', 'anak', 'erickthohir', 'mimpi', 'indonesia', 'indonesia', 'bersih', 'patuh', 'hukum', 'hijau', 'maju', 'gama']",0.0
+"['rayu', 'rayu', 'rayu', 'erik', 'tohir', 'urus', 'tuh', 'pssi', 'sudah', 'lurus', 'coba', 'pikir', 'loncat', 'untuk', 'koalisi', 'selamat', 'beban', 'berat', 'seharusx', 'beban', 'seharusx', 'tanggung', 'akibat', 'efekx', 'beban', 'orang', 'rakyat']",1.0
+"['tolong', 'masih', 'harap', 'cawapresnya', 'erickthohir', 'kemarin', 'deklarasi', 'sempat', 'kecewa', 'banget', 'sampai', 'enak', 'makan', 'benar', 'benar', 'masih', 'belum', 'terima', 'cawapresnya', 'ragu', 'mampu', 'loh', 'kemarin', 'putus', 'sekarang', 'bikin', 'rusuh', 'rugi', 'sekarang', 'tau', 'seperti', 'daerah', 'banyak', 'orang', 'tadi', 'dukung', 'sekarang', 'bilang', 'pindah', 'dukung', 'karena', 'lihat', 'cawapresnya', 'karena', 'putus', 'kemarin', 'bikin', 'rakyat', 'banyak', 'kecewa']",1.0
+"['hijau', 'lihat']",1.0
+"['hijau', 'lihat', 'duit', 'saja']",1.0
+"['panjang', 'tri']",0.0
+"['salah', 'prank', 'masih', 'tempel']",0.0
+"['kursi', 'aman']",0.0
+"['pasang', 'susah', 'ajak', 'wig', 'wig', 'semprott', 'morgan', 'parfume', 'otomatis', 'ajak', 'wig', 'wig']",0.0
+"['iya', 'maaf', 'barangkali', 'tahu', 'rekomendasi', 'suplemen', 'bagus', 'atas', 'masalah', 'vitalitas', 'pria', 'suplemen', 'beli']",0.0
+"['last', 'mute', 'nnya', 'inj']",1.0
+"['sak', 'paket']",0.0
+"['mantap', 'erik']",1.0
+['brorondm'],1.0
+"['sudah', 'kalah']",0.0
+"['lho', 'hijau', 'bknnya', 'putih', 'krem', 'kuning', 'biru']",0.0
+"['lobby', 'politik', 'memang', 'dinamis']",1.0
+"['hijau', 'hijau']",1.0
+['all'],0.0
+"['brorondm', 'info']",0.0
+['cie'],1.0
+['mantap'],1.0
+"['oligarki', 'ngumpul']",0.0
+['prabowogibran'],0.0
+['cawapresnya'],1.0
+"['tombol', 'for', 'presiden']",0.0
+"['hijau', 'kantong']",1.0
+"['pusing', 'kalo', 'sudah', 'pikir', 'politik', 'pikir', 'bain', 'dapat', 'pikir', 'entar', 'bilang', 'peduli', 'bangsa', 'serba', 'salah', 'inti', 'rakyat', 'mensuport', 'apa', 'bangsa', 'pihak', 'kepada', 'raja', 'hadap', 'mang', 'jabat', 'negeri']",1.0
+"['suka', 'php', 'orang', 'begitu', 'skck', 'bingkai', 'kenang']",1.0
+"['moga', 'menang', 'erick', 'tetap', 'tri']",1.0
+"['dobrak', 'konstitusi', 'rusak', 'demokrasi', 'bang', 'hancur', 'reformasi', 'tahun', 'juang', 'bang']",1.0
+"['menteri', 'badan', 'usaha', 'milik', 'negara', 'bumn', 'erick', 'thohir', 'dukung', 'menteri', 'tahan', 'calon', 'presiden', 'keluarga', 'makan', 'erick', 'indonesia', 'maju']",0.0
+"['all', 'probowo']",1.0
+"['hijau', 'lumut', 'bagaimana']",1.0
+"['mantap', 'sekali', 'keren']",1.0
+"['erik', 'netral', 'jangan', 'calon presiden', 'calon wakil presiden', 'sayang', 'erik']",1.0
+"['php', 'jam', 'orang', 'atm', 'dukung', 'warbiasa']",1.0
+"['putus', 'cacat', 'hukum', 'erik', 'ganti', 'supaya', 'kisruh', 'lembaga', 'kontestasi', 'adem', 'saing']",0.0
+"['allin', 'muhaimin']",0.0
+"['timbul', 'tenggelam', 'rakyat', 'slogan', 'saja', 'alir', 'nepotisme', 'kapookk']",1.0
+"['anak', 'erick', 'titip', 'mimpi', 'orang', 'salah', 'harap', 'bumi', 'hijau', 'hutan', 'asri', 'saja', 'kalteng', 'gundulin', 'gersang', 'tanam', 'singkong', 'kayu', 'hilang', 'hutan', 'gundul', 'singkong']",0.0
+"['untuk', 'indonesia']",1.0
+['pasang'],1.0
+"['ira', 'support', 'palestina']",0.0
+"['support', 'tidak', 'untuk', 'calon wakil presiden', 'mana']",1.0
+"['hijau', 'maksud']",0.0
+"['ganti', 'calon', 'wakil', 'pilih']",1.0
+"['tanda', 'ganti']",0.0
+"['indonesia', 'maju']",1.0
+['putar'],0.0
+"['kalo', 'pribadi', 'cocok']",1.0
+['amin'],1.0
+"['menang', 'takdir', 'presiden', 'kalah', 'legowo', 'menang', 'jangan', 'sombong', 'rangkul', 'kerja', 'indonesia', 'maju', 'bawah', 'tolong', 'jangan', 'hujat', 'tetap', 'cari', 'sandang', 'papan', 'pangan', 'idola', 'calon presiden', 'sah']",1.0
+"['apa', 'pilih', 'presiden']",0.0
+"['banteng', 'panas']",1.0
+"['bang', 'toyib', 'salah', 'gaul', 'kayak', 'kamu', 'konglomerat', 'negrti']",0.0
+"['mkmk', 'batal', 'calon wakil presiden', 'alternatif']",0.0
+"['jadi', 'ketua', 'tim', 'menang', 'pakk']",1.0
+"['yess', 'all']",0.0
+"['mantap', 'maju', 'dukung', 'erick', 'thohir', 'harga']",0.0
+"['omong', 'indonesia', 'asli', 'cuan', 'masih', 'ingat', 'usaha', 'mandek', 'gara-gara', 'kuasa', 'tuju', 'cari', 'cuan', 'bareng']",1.0
+"['kurang', 'hormat', 'untuk', 'amin', 'bismillah', 'amin']",0.0
+"['menang', 'erick', 'anak', 'presiden', 'paman', 'ketua']",1.0
+"['indonesia', 'sayang', 'tidak bisa', 'kalah', 'bocil', 'mati', 'hasil', 'ngakalin', 'konstitusi', 'negara']",0.0
+"['erick', 'thohir', 'orang', 'cerdas', 'saja', 'pilih']",0.0
+"['kertas', 'meja', 'titip', 'pesan', 'saya', 'jangan', 'disuru', 'nombok', 'ya', 'pakk']",0.0
+"['indonesia', 'hijau']",0.0
+"['wajah', 'pragmatis']",0.0
+"['kesini', 'orang', 'tahu', 'mari', 'gandeng', 'tangan', 'presiden', 'cuman', 'bilang', 'baik']",1.0
+"['pesan', 'posisi', 'mas', 'sudah', 'urus', 'skck', 'lebih', 'kompeten', 'lho', 'anak', 'presiden']",1.0
+"['aman', 'posisi', 'kalo', 'menang', 'kali']",1.0
+"['iya', 'otomatis', 'menteri', 'kalo', 'menang']",1.0
+"['cawapresnya', 'biar', 'ramai', 'begini', 'urus']",1.0
+"['alam', 'duit', 'kalah', 'putra', 'mahkota', 'previlege', 'ngakalin', 'konstitusi', 'paman', 'wkwkwkkwkw']",1.0
+"['ora', 'ora']",1.0
+"['mending', 'titip', 'indonesia', 'hijau', 'green', 'latern', 'saja', 'ketimbang', 'titip', 'orang', 'gagal', 'food', 'estate']",1.0
+"['aneh', 'semua', 'politikus']",0.0
+"['calon', 'ganti', 'lord', 'opung', 'kalo']",0.0
+"['gass', 'ayo', 'nangka']",1.0
+"['asn', 'petinggi', 'negara', 'salah', 'pasoon', 'ya', 'begini']",1.0
+"['hati', 'menang']",1.0
+"['erick', 'semangat', 'cinta', 'you']",0.0
+"['orang', 'gendut', 'duit', 'dukung', 'lihat', 'main', 'orang', 'ambisi', 'presiden', 'orang', 'calon', 'ambisi', 'percaya', 'pimpin', 'indonesia', 'maju', 'beliau', 'ambisi', 'presiden', 'beliau', 'tugas', 'tugas', 'amanah', 'emban', 'tugas', 'layak', 'presiden', 'indonesia']",1.0
+"['tidak', 'papa', 'suport', 'ujung', 'masuk', 'kabinet', 'gama']",0.0
+['preett'],1.0
+"['erickthohir', 'dukung', 'dukung', 'mundur', 'tri', 'bumn', 'biar', 'sportif']",0.0
+['yess'],0.0
+"['hijau', 'apa', 'tanam', 'singkong', 'saja', 'hidup']",1.0
+"['iya', 'benar', 'sikap', 'harus', 'seperti', 'lawan', 'ngeri', 'loh', 'pencet', 'tombol', 'rudal', 'keluar', 'saja', 'rudal', 'pakde', 'nyasar', 'mana', 'belum', 'kalah', 'apalagi', 'kalo']",0.0
+"['siap', 'ganti', 'posisi', 'november']",1.0
+"['gila', 'survei', 'sekali', 'nan', 'korban', 'salah', 'minggat', 'pdip', 'langsung', 'bahlil', 'orang', 'ngeri', 'survei', 'ngaruh', 'sekali', 'jiwa', 'kayak', 'begini', 'konoha']",1.0
+"['bismillah', 'terimakasih', 'erick']",1.0
+"['for', 'urus', 'karo']",0.0
+"['politik', 'kaum', 'elit', 'kawan', 'lawan', 'abadi', 'negosiasi', 'cuan', 'jabat', 'kuasa', 'rakyat', 'korban', 'alat', 'main']",1.0
+"['cie', 'cie', 'cie', 'tanda', 'nih']",0.0
+"['bumn', 'beres', 'karya', 'nyantol']",0.0
+"['kuasa', 'melangengkan', 'bisnis', 'nyata', 'terang', 'gagasanya', 'ugm', 'acara', 'mata', 'najwa', 'sepuh', 'istirahat', 'dihawatirkan', 'jabat', 'maksimal', 'emban', 'amanah', 'salam', 'ubah', 'mari', 'menagkam', 'amin', 'dipilpres']",1.0
+"['tenang', 'tenang', 'erickthohir', 'sisi', 'main', 'cadang', 'yakin', 'putus', 'mkmk', 'pecat', 'paman', 'sampeyan', 'main', 'ganti', 'anak', 'lurahpetruk', 'kitabukanjokowilagi']",0.0
+"['amin', 'erickthohir']",0.0
+"['bumn', 'bangkrut', 'gara', 'piutang', 'mangkrak']",0.0
+"['dukung', 'erickthohir', 'untuk', 'indonesia', 'maju']",1.0
+"['rik', 'rik']",1.0
+"['cari', 'aman']",0.0
+"['iya', 'dek', 'pilih']",1.0
+"['maaf', 'unfollow', 'bye']",1.0
+"['nitip', 'proyek', 'penting', 'dalam']",1.0
+"['erick', 'andil', 'gagal', 'piala', 'dunia', 'fifa']",0.0
+['erickthohir'],0.0
+"['urus', 'food', 'estate', 'gagal']",0.0
+"['iya', 'balas', 'budi', 'dukung', 'anak', 'lurah', 'biar', 'dapat', 'jatah', 'kursi']",1.0
+"['tidak apa', 'kalo', 'cang', 'erik', 'pilih', 'saya', 'pilih', 'cang', 'saja', 'calon presiden']",0.0
+"['tri', 'cari', 'aman', 'dukung']",0.0
+"['serah', 'rick', 'arah', 'lurah']",0.0
+"['memang', 'kalo', 'pimpin', 'ganjar pranowo', 'prof', 'nkri', 'maju']",1.0
+"['janji', 'bahan bakar minyak', 'subsidi', 'gratis', 'masuk', 'logika', 'alih', 'all']",1.0
+['cihuuyy'],0.0
+"['erick', 'calon wakil presiden']",0.0
+"['tetap', 'mahwud']",0.0
+"['yes', 'indonesia', 'butuh', 'ubah', 'amin']",0.0
+"['menang', 'indonesia', 'merdeka', 'sejahtera']",0.0
+"['iya', 'mohon', 'lingkung', 'hidup', 'baik', 'dukung', 'kalo', 'bawa', 'isu', 'lingkung']",0.0
+"['sport', 'wowo', 'takut', 'presiden', 'dukung', 'cendana', 'keluarga', 'orba']",1.0
+"['tiga', 'calon', 'putra', 'indonesia', 'mari', 'pilih', 'baik', 'mari', 'pilih', 'alam', 'kepala', 'daerah', 'cocok', 'menhan', 'tinggal', 'banding', 'objektif']",0.0
+"['kompetisi', 'sudah', 'curang', 'duluan', 'jangan', 'harap', 'play', 'fair', 'karena', 'awal', 'sudah', 'pakai']",1.0
+"['siap', 'cadang']",1.0
+"['harga', 'bahan bakar minyak', 'bagaimana', 'rik', 'bumn', 'rugi', 'bagaimana', 'rik']",0.0
+"['haha', 'harap', 'menteri', 'wapres']",1.0
+"['sudah', 'basi', 'politik']",0.0
+"['gass', 'poll']",1.0
+"['bebas', 'mikir', 'nasib', 'tidak', 'kerja', 'tidak', 'makan']",1.0
+"['erickthohir', 'calon wakil presiden', 'dukung', 'milenial', 'masive', 'nasib', 'sampai', 'erick', 'paman', 'palu', 'kuat', 'full', 'moga', 'tanggal', 'batal', 'terus', 'tanggal', 'ganti', 'erick', 'saing', 'enak', 'tonton']",0.0
+"['hijau', 'bearti', 'amin']",0.0
+"['hidup', 'lihat', 'lihat', 'gibranga']",0.0
+"['dahulu', 'takdir', 'ragu', 'negara', 'pimpin', 'bocil']",0.0
+"['mak', 'banteng', 'dikepretin', 'mahluk']",1.0
+"['hijau', 'rumput', 'stadion', 'sepak', 'bola']",1.0
+"['memang', 'layak', 'menang', 'putar']",0.0
+"['moncongor', 'putih', 'ketar', 'tir', 'tuh']",0.0
+"['cerdas', 'calon']",0.0
+['muhaimin'],1.0
+"['amin', 'saja']",1.0
+"['kumpul', 'begal', 'muda', 'mudah', 'orang', 'pilih']",1.0
+"['stadion', 'jis', 'lanjut', 'negeri', 'sangka', 'indonesia', 'stadion', 'jis', 'hebat', 'cangkemu', 'putar', 'balik', 'rumput', 'pintu']",0.0
+"['oalahh', 'nitip', 'hijau', 'lampu', 'hijau', 'jalan', 'tuh', 'ckckck', 'selam', 'minum', 'air', 'ati', 'nanti', 'kembung', 'loh']",1.0
+"['inshaallah', 'kenapa', 'pikir', 'calon presiden', 'calon wakil presiden', 'erik', 'tohir']",1.0
+"['over', 'confident', 'bocah']",1.0
+"['entar', 'khianat', 'rakyat']",1.0
+"['papa', 'jdiin', 'contoh', 'anak', 'muda', 'masseh']",0.0
+"['maaf', 'mas', 'dukung']",1.0
+"['tengil', 'ya']",0.0
+"['partai', 'saja', 'khianat', 'rakyat']",0.0
+"['pdi', 'pamit', 'bagaimana', 'rakyat']",0.0
+"['pasang', 'via', 'paman', 'senggol']",1.0
+"['all', 'gara', 'tarik', 'bocah', 'deh']",0.0
+"['budak', 'jabat']",0.0
+"['kalo', 'dapat', 'maju', 'calon wakil presiden', 'langsung', 'maju', 'ketua', 'pbb', 'rubah', 'konstitusi', 'sampeyan', 'saja', 'tho', 'mas', 'mas']",1.0
+"['contoh', 'ajar', 'pimpin', 'bangsa', 'khianat']",0.0
+"['partai', 'saja', 'khianatin']",0.0
+['malu'],1.0
+"['malu', 'kalo', 'calon wakil presiden', 'jalur', 'paman']",1.0
+"['benar', 'bapak', 'orang', 'rakyat', 'alangkah', 'baik', 'bapak', 'rakyat', 'saja']",1.0
+"['dukung', 'presiden', 'bawa', 'indonesia', 'maju']",0.0
+"['anakmuda', 'contoh', 'sikap', 'buruk', 'khianat', 'partai', 'sar', 'ambisi', 'kuasa']",1.0
+"['allah', 'jadi', 'mahmud', 'wakil', 'presiden']",0.0
+"['gilir', 'partai', 'pdip', 'katai', 'partai', 'katai', 'dasar', 'mulut', 'netizen']",1.0
+"['calon wakil presiden', 'jalur', 'legal', 'karena']",0.0
+"['selesai', 'pdip', 'kalo', 'mahkamah', 'keluarga', 'nandur', 'ngunduh', 'bismillah', 'putar']",1.0
+"['ayo', 'pol']",1.0
+"['jangan', 'percaya', 'pdip', 'main', 'kaki', 'rakyat', 'dikibulin', 'rencana']",1.0
+"['hormat', 'dukung', 'spil', 'prestasi', 'beliau', 'all', 'all', 'bosan', 'baca', 'serius', 'orang', 'arah', 'tuju']",0.0
+"['pdip', 'tolak', 'minta', 'periode', 'ayah', 'terus', 'anak', 'memang', 'benar', 'panjang', 'kuasa', 'jalur', 'jalur', 'dinasti']",0.0
+"['pilih', 'untuk', 'nkri', 'pdip', 'hati']",0.0
+"['jual', 'martabak', 'wali', 'kota', 'calon wakil presiden', 'mudah', 'cepat', 'urus', 'negara', 'juang', 'korban', 'tahun', 'abdi', 'negara', 'akal', 'sehat', 'mati', 'kalah', 'nafsu', 'ambisi']",1.0
+"['lurah', 'bicara', 'etika', 'bibir', 'tulang']",0.0
+"['khianat', 'pdip', 'khianat', 'konstitusi', 'khianat', 'rakyat']",0.0
+"['benar', 'kalo', 'calon wakil presiden', 'hanya', 'salah', 'proses', 'calon presiden', 'kes', 'licik', 'pasang', 'kelak', 'menang', 'kah', 'atur', 'politik', 'rusak', 'tindak', 'wenang', 'wenang', 'pikir', 'dampak', 'elite', 'elite']",0.0
+"['generasi', 'muda', 'ikut', 'instan']",0.0
+"['anak', 'presiden', 'paman', 'ketua', 'adik', 'tum', 'parpol', 'tenang', 'gampang', 'atur']",0.0
+"['khianat', 'pdip', 'tidak', 'menghianati', 'konstitusi', 'tidak', 'juga']",0.0
+"['sudah', 'tidak apa', 'saja', 'besok', 'rakyat', 'dihianatin']",0.0
+"['clear', 'keluarga', 'pulang', 'solo', 'cepat']",0.0
+"['lihat', 'kalo', 'gila', 'jabat', 'anak']",0.0
+"['respek', 'mentang', 'anak', 'presiden']",0.0
+"['alam', 'nyicil', 'motor', 'saja', 'lunas']",0.0
+"['salah', 'salah', 'masse', 'permak', 'bahasa', 'gimanapun', 'orang', 'waras', 'etika', 'indonesia', 'etika']",0.0
+"['memang', 'saya', 'pikirin', 'kasihan', 'deh', 'sudah', 'tidak', 'taat', 'hukum', 'nepotisme', 'aji', 'mumpung', 'bapak', 'presiden', 'bagaimana', 'wapres', 'entar', 'hancur', 'negeri', 'pimpin', 'orang', 'model', 'begini']",0.0
+"['wakil', 'presiden', 'mencla', 'mencle', 'etika', 'bagaimana', 'ganti', 'presiden', 'halang', 'tugas', 'langsung', 'caplok', 'asing', 'negeri']",0.0
+"['fakta', 'peristiwa', 'lawan', 'politik', 'pilpres', 'cawapresnya', 'anak', 'sulung', 'masuk', 'tim', 'menang', 'presiden', 'cawapresnya', 'lawan', 'politik', 'kubu', 'kubu', 'lawan', 'politik', 'pilpres', 'cawapresnya', 'lawan', 'politik', 'dukung', 'kubu', 'pdip', 'kubu', 'pdip', 'lawan', 'politik', 'putra', 'sulung', 'pesan', 'moral', 'dalam', 'politik', 'kawan', 'lawan', 'abadi', 'abadi', 'penting', 'everything', 'just', 'game', 'enjoy', 'saja', 'musuh', 'kawan', 'kerabat', 'beda', 'pilih', 'capresnya', 'elit', 'politik', 'gonta', 'ganti', 'pasang', 'politik', 'musuh', 'kawan', 'lanjur', 'putus', 'sahabat', 'saudara', 'junjung', 'politis', 'besok', 'habis', 'pilpres', 'kongkow', 'bareng', 'panggung', 'kuasa', 'hilang', 'sahabat', 'ingat', 'hidup', 'susah', 'tolong', 'elit', 'politik', 'atas', 'tetapi', 'kawan', 'tetangga', 'saudara', 'moga', 'manfaat', 'salam', 'sehat', 'jadi', 'baik', 'warga', 'negara', 'hayo', 'santai', 'jalin', 'sahabat', 'saudara', 'tetangga', 'kawan', 'sahabat', 'saudara', 'pilih', 'beda', 'korban', 'sahabat', 'saudara', 'salam', 'silaturahim', 'salam', 'sehat', 'jaga', 'saudara', 'sahabat', 'salam', 'waras']",0.0
+"['tombol', 'menang']",1.0
+['khianat'],1.0
+"['muka', 'ploga', 'plongo', 'kyok']",0.0
+"['peduli', 'khianat', 'banteng', 'atau', 'maju', 'pakai', 'ngakalin', 'konstitusi']",1.0
+"['mas', 'sudah', 'ngakalin', 'atur', 'mahkamah', 'keluarga', 'khianat', 'malu']",1.0
+"['anti', 'keluarga', 'lurah']",0.0
+"['jangan', 'pilih', 'calon', 'pimpin', 'lahir', 'khianat', 'konstitusi', 'gibran rakabuming']",0.0
+"['lihat', 'banget', 'profesional', 'hormat', 'deh', 'buka', 'mata', 'pakai', 'otak', 'rakyat', 'sudah', 'pintar']",1.0
+"['ribet', 'ribut', 'orang', 'ribut', 'dunia', 'politikus', 'biar', 'pilih', 'tetap', 'kerja', 'keras', 'hidup', 'istri', 'anak', 'serah', 'pilih', 'indonesia', 'jadi', 'negara', 'kulo', 'manut', 'mawon']",0.0
+"['pasang', 'penuh', 'beban']",0.0
+"['sumpah', 'omong', 'orang', 'bikin', 'sakit', 'hati', 'banget', 'attitude']",0.0
+"['muda', 'karya']",1.0
+"['khianat', 'reformasi']",0.0
+"['paman', 'pilih', 'muhaimin', 'amin', 'aminajadulu']",0.0
+"['cinta', 'mas', 'sudah', 'benar', 'tidak', 'bagus', 'partai', 'kuasa', 'penting', 'rakyat', 'penting', 'partai', 'syemangat']",0.0
+"['presiden', 'hidup', 'susah', 'byknya', 'atur', 'bikin', 'rakyat', 'susah', 'memang', 'pikir']",0.0
+"['plot', 'twist', 'negeri', 'dongeng', 'what', 'jelang', 'pilpres', 'sengaja', 'skema', 'olah', 'keluarga', 'presiden', 'musuh', 'partainga', 'masyarakat', 'empati', 'dukung', 'keluarga', 'presiden', 'menang', 'bukti', 'banteng', 'menang', 'sang', 'banteng', 'damai', 'kuasa']",0.0
+"['pdip', 'lanjut', 'dulu']",0.0
+"['lepas', 'tawak', 'biar', 'rakyat', 'tahu', 'wajah', 'asli']",0.0
+"['hormat', 'dukung', 'spil', 'prestasi', 'beliau', 'all', 'all', 'bosan', 'baca', 'kreatif']",0.0
+"['enteng', 'banget', 'besok', 'kalo', 'wartawan', 'lihat', 'rakyat', 'susah', 'tidak apa']",0.0
+"['sesal', 'langkah', 'mas', 'coba', 'kalo', 'sabar', 'kbh', 'elegent', 'enak', 'kalo', 'sekarang', 'terima', 'resiko', 'jujur', 'sayang', 'ambil', 'langkah', 'percaya', 'surat']",0.0
+"['ahli', 'martabak']",0.0
+"['etika', 'ndi']",0.0
+"['ponakan', 'sayang', 'paman']",0.0
+['antipdip'],1.0
+"['karma', 'will', 'take', 'over']",1.0
+"['you', 'are', 'best', 'presiden', 'gara', 'gara', 'stabat', 'tebing', 'toll']",0.0
+"['clear', 'gigi', 'bran']",0.0
+['antirezimlurah'],0.0
+"['tenang', 'tenang', 'mas']",0.0
+"['tugas', 'partai', 'rill', 'tugas', 'rakyat', 'jatah', 'calon presiden', 'tolak', 'pildun', 'pakai', 'isu', 'israel', 'plakk']",0.0
+"['kalo', 'sudah', 'clear', 'kaki']",1.0
+"['teman', 'sudarmanto bahri', 'contoh', 'buruk', 'depan', 'indonesis']",0.0
+"['sampai', 'rakyat', 'indonesia', 'pimpin', 'kakek', 'tua', 'bocil', 'ngantuk']",1.0
+['jijik'],1.0
+"['kenal', 'sudah', 'bantuin', 'saja', 'khianatin', 'rakyat', 'kenal']",0.0
+"['terima', 'anggap', 'khianat', 'fakta']",1.0
+"['bersin', 'belum', 'benar', 'calon wakil presiden']",1.0
+"['dalam', 'politik', 'hianat', 'khianat']",0.0
+['cepat'],1.0
+"['ira', 'orang', 'gila', 'sektor', 'perintah', 'orang', 'gila', 'gila', 'kekeuh', 'terus', 'kuasa', 'anak']",0.0
+"['kartu', 'anggota', 'pdip', 'pulangin']",1.0
+"['ahkk', 'cebong', 'cawe', 'acting', 'drama', 'politik']",0.0
+"['begitu', 'mudh', 'jadi', 'pnghianat', 'dalam', 'prtai']",0.0
+"['sempat', 'kali', 'bentuk', 'beda']",0.0
+"['tertawa', 'tawa', 'saja', 'pas', 'sindir', 'langsung', 'pindah', 'haluan', 'asa', 'anak', 'pendiem', 'marah']",0.0
+['presiden'],0.0
+"['ya', 'ajar', 'saja', 'besok', 'tahu', 'khianat', 'rakyat']",1.0
+"['terima', 'kasihh', 'paman']",0.0
+"['modal', 'saja']",0.0
+"['santuy', 'anak', 'ingus', 'komennya', 'panik', 'begitu']",0.0
+['tetap'],0.0
+"['kaum', 'awam', 'khianat', 'tolong']",1.0
+"['tolong', 'cari', 'obat', 'fluu']",1.0
+"['tombol', 'rafatar', 'ethes', 'menang']",1.0
+['privilage'],1.0
+"['tombol', 'ucap', 'amin']",0.0
+"['keluarga', 'jabat', 'kasi', 'rakyat', 'sepeda', 'mentok', 'mentok', 'laptop', 'saja', 'biji']",1.0
+['pdi'],0.0
+"['masalah', 'sempat', 'berkarir', 'lebih', 'salah', 'halang']",0.0
+"['tombol', 'pragibran', 'presiden']",0.0
+"['komennya', 'lucu', 'lucu', 'hahahhaha', 'politik', 'dinamis', 'suka', 'pilih', 'kagum', 'dukung', 'suka', 'kagum', 'pilih', 'mas', 'anak', 'ingus', 'sudah', 'indak', 'pilih', 'beres', 'planga', 'plongo', 'kayak', 'kayak', 'almarhum', 'gusdur', 'saja', 'maaf', 'kurang', 'presiden', 'halang', 'kapasitas', 'rakyat', 'percaya', 'saja', 'pimpin', 'wessa', 'adem', 'adem', 'wae', 'tengkar', 'malu', 'negara', 'sudah', 'dewasa', 'rakyat', 'kayak', 'anak']",0.0
+"['serasa', 'anak', 'habis', 'renang']",0.0
+"['ketua', 'jam', 'terbang']",0.0
+['presiden'],0.0
+"['putus', 'urat', 'malu']",0.0
+"['simak', 'poros', 'dinasti', 'keluarga', 'presiden', 'mbak', 'puan', 'surabaya', 'indonesia', 'merdeka', 'dinasti', 'politik', 'raja', 'umur', 'tua', 'nkri', 'langsung', 'budaya', 'dinasti', 'politik', 'bawa', 'tokoh', 'politik', 'daerah', 'nasional', 'dinasti', 'politik', 'daerah', 'tradisi', 'kuat', 'era', 'reformasi', 'dinasti', 'politik', 'tingkat', 'nasional', 'panas', 'putus', 'calon', 'calon wakil presiden']",0.0
+"['sedih', 'juta', 'pemuda', 'cerdas', 'juang', 'nol', 'oleh', 'sukses', 'role', 'modell', 'sukses', 'anak', 'muda', 'oleh', 'kaarena', 'paman', 'ayah']",0.0
+"['kliatannya', 'bestie', 'lawan', 'cuman', 'drama', 'istana']",0.0
+"['negara', 'milik', 'pdip', 'saja', 'ngontrak', 'begitu']",0.0
+"['lossne', 'mas', 'golek', 'seng', 'ora', 'setir', 'wae']",0.0
+"['kolam', 'biar', 'deh']",0.0
+"['entar', 'menghianati', 'rakyat']",1.0
+['boruto'],1.0
+"['tepat', 'khianat', 'pilih']",0.0
+"['golput', 'harap', 'menang', 'taruh', 'tiket', 'libur', 'samosir', 'jancuk']",0.0
+"['orang', 'defisit', 'logika', 'nalar', 'pilih', 'sudah', 'tua', 'omong', 'saja', 'munim', 'alam', 'sombong', 'ampun']",1.0
+['denokrasi'],0.0
+"['bioang', 'memang', 'pengkianat', 'mencla', 'mencle', 'jujur']",1.0
+"['pinalti', 'pdip', 'copot', 'jabat', 'walikotanya']",1.0
+"['rai', 'gedek', 'kalo', 'orang', 'jawa', 'bilang']",0.0
+"['mengkianat', 'pdip', 'tidak', 'mengkianati', 'kontitusi', 'anggap', 'tidak', 'mengkianati', 'nkri']",0.0
+"['capresnya', 'wowo', 'gjr', 'menang', 'visi', 'misi', 'ubah']",1.0
+"['layak', 'penghianatan', 'prioritas', 'panggil', 'milik', 'bakat', 'cerdas', 'ayah', 'mudah', 'ajak', 'kembang', 'wallahu', 'salam']",0.0
+"['tidk', 'tarik']",1.0
+"['all', 'indonesia', 'maju', 'bismillah']",0.0
+"['urat', 'malu', 'putuss', 'kalah', 'aku', 'menang', 'pillpres', 'ya']",0.0
+['attitude'],0.0
+"['ban', 'tinggalnpunya', 'malu']",1.0
+"['kalo', 'partai', 'pdip', 'khianat', 'khianat', 'hadap', 'konstitusi', 'ngakali', 'atur', 'kuasa']",0.0
+"['kebo', 'saja', 'khianat', 'manusia', 'mikir', 'bro']",1.0
+"['quotes', 'baik', 'tidak']",0.0
+"['beliau', 'cerdas', 'santun', 'akhlak', 'mulia', 'budi', 'pekerti', 'luhur', 'sederhana', 'jujur', 'bersih', 'track', 'record', 'konsisten', 'tuntas', 'jalan', 'tugas', 'gubernur', 'dki', 'jakarta', 'penuh', 'harga', 'negeri', 'beliau', 'rasyid', 'layak', 'pimpin', 'bangsa', 'indonesia', 'gasspooll']",1.0
+"['pasang', 'menang', 'masyarakat', 'etika', 'kotor', 'menang']",0.0
+"['all', 'bissmillah']",0.0
+"['respeck', 'anak', 'maaf', 'dukung']",0.0
+['clear'],1.0
+"['soyo', 'suweh', 'kamu', 'dadi', 'boleh']",0.0
+"['strategi', 'kawan']",1.0
+"['obrak', 'obrik', 'konstitusi', 'menjlnkan', 'salah', 'tindak', 'moral', 'bagaimana', 'nanti', 'ya', 'ikhlas', 'pimpin', 'kayak', 'begini']",0.0
+"['kalo', 'wawancara']",0.0
+['monggo'],1.0
+['tidak'],0.0
+['bocil'],0.0
+['sila'],0.0
+"['wkwkkw', 'dukung', 'banteng', 'merah', 'panas', 'ya', 'balik', 'sukses', 'dukung', 'belakang', 'surabaya', 'tahu', 'seluk', 'beluk', 'negara', 'dukung']",0.0
+"['jabat', 'gubernur', 'calon wakil presiden', 'bapa', 'gubernur', 'jakarta', 'sudah', 'naik', 'presiden', 'instan', 'semuah', 'kalo', 'pikir', 'pikir']",0.0
+"['ting', 'politik', 'coy', 'jangan', 'tipu', 'maik', 'mak', 'puan', 'santai', 'baee', 'tuju', 'jelass']",1.0
+"['amin', 'saja', 'bismillah', 'allah', 'meridhoi', 'amin']",1.0
+"['kacang', 'lupa', 'kulit']",0.0
+"['belum', 'bohong', 'program', 'sri', 'mulyani', 'program', 'apbn', 'ketuk', 'piye', 'iki', 'bohong']",1.0
+"['orang', 'anggap', 'hak', 'hujat', 'bincang', 'selesai']",0.0
+"['yaallah', 'gib', 'gib', 'tidak', 'malu', 'malu', 'mya', 'kamu', 'gibran rakabuming']",0.0
+"['soalhkan', 'berrbut', 'sikut', 'kalo', 'kebamyakaan', 'rakyat', 'pilih', 'best', 'pokok']",1.0
+"['masih', 'suka', 'bohong']",0.0
+"['sekenario', 'sempurna']",0.0
+"['moga', 'solo', 'menang', 'banteng', 'biar', 'padha', 'keluarga', 'asal', 'banteng']",0.0
+"['ojo', 'percoyo']",0.0
+"['tuhan', 'pimpin', 'bangsa', 'depan']",1.0
+[],1.0
+"['bapak', 'paman', 'kuasa']",0.0
+"['jalan', 'lee', 'tunjuk', 'omong', 'wae']",1.0
+"['duet', 'pas', 'tidak', 'imbang', 'jangan', 'gagal']",1.0
+['nyoblos'],0.0
+"['cah', 'cilik', 'takut', 'kualat']",1.0
+"['khianat', 'buruk', 'tidak']",1.0
+"['tebak', 'arogansi']",0.0
+"['terima', 'kasih', 'ketu', 'palu', 'paman']",0.0
+"['sombong', 'banget', 'jatohnya', 'bangga']",0.0
+"['mantab', 'gir', 'kapok', 'pilih', 'partai', 'cilik', 'bahan bakar minyak', 'demo', 'menang', 'bahan bakar minyak', 'diam', 'rakyat', 'wadas', 'program', 'berantas', 'korupsi', 'bagaimana', 'harun', 'mas', 'uang', 'bicara', 'dpr', 'krlanjutanya', 'cari', 'sensasi', 'untuk', 'pilih', 'calon wakil presiden', 'raker', 'bilang', 'pdip', 'ingat', 'presiden', 'wajar', 'dukung', 'periode', 'sakit', 'anak', 'untuk', 'masyarakat', 'hatap', 'paham', 'mari', 'dukung', 'biar', 'negara', 'aman', 'kkb', 'air', 'indonesia', 'segani', 'negara', 'macan', 'asia']",0.0
+"['politik', 'model', 'kena', 'karma', 'tndai', 'saja']",0.0
+"['muka', 'tampil', 'saja', 'sudah', 'tidak', 'aura', 'pimpin']",1.0
+"['anggap', 'khianat', 'karena', 'khianat', 'keluarga', 'khianat', 'munafik']",1.0
+"['dalam', 'dunia', 'politik', 'nama', 'loyalitas', 'percis', 'dunia', 'sepak', 'bola', 'mana', 'saja', 'masuk', 'judul', 'penting', 'untung']",0.0
+"['pilih', 'urus', 'menang', 'kalah', 'mslah']",0.0
+"['amerika', 'juluk', 'paman', 'sama', 'indonesia', 'juluk', 'paman', 'usman']",1.0
+['peduli'],0.0
+"['konyol', 'calon', 'gweh', 'pengin', 'srek', 'mahfudz']",1.0
+['periode'],1.0
+"['penting', 'tetap', 'hasil']",1.0
+"['btw', 'konoha', 'wapres', 'indak']",0.0
+"['menghianati', 'partai', 'menghianati', 'kontitusi']",1.0
+"['pas', 'walikota', 'resfeck', 'banget', 'loh', 'semenjak', 'loncat', 'jauh', 'aga', 'bagaimana', 'begitu', 'minimal', 'slsaikn', 'jabat', 'bagai', 'walikota', 'terus', 'gubernur', 'benah', 'surakarta', 'belum', 'full', 'mas', 'mas', 'loncat', 'banget']",0.0
+['indak'],1.0
+"['bikin', 'diam', 'milu', 'keluarga', 'sempat', 'jabat', 'harga', 'orang', 'juang', 'mari', 'gelandang', 'politik']",1.0
+"['inti', 'saja', 'mas']",1.0
+"['biar', 'keluarga', 'rasa', 'serang', 'buzzer', 'buzzer', 'milik', 'banteng']",1.0
+"['bocil', 'aji', 'mumpung', 'tahu', 'malu']",0.0
+"['banteng', 'istirahat', 'biar', 'indonesia']",1.0
+"['konstitusi', 'saja', 'dihianati', 'pdi']",0.0
+"['khianat', 'rakus', 'kuasa', 'sdhhilang', 'akal', 'sehat', 'anak']",1.0
+"['khianat', 'rendah', 'martabat', 'anak', 'jangan', 'bangga', 'insya', 'allah', 'kualat']",0.0
+"['bau', 'banteng']",0.0
+"['pilih', 'gampang', 'lupa', 'jasa', 'orang', 'besar', 'pilih', 'khianat']",0.0
+"['kalo', 'pribadi', 'kayak', 'menang', 'karena', 'belakang', 'layar', 'back', 'papa', 'wowo']",0.0
+"['khianat', 'jangan', 'pilih']",0.0
+"['sudah', 'tebak', 'bagaimana', 'depan']",0.0
+"['coblos', 'cipung']",0.0
+['ndableqq'],1.0
+"['khianat', 'partai', 'tidak apa', 'deterjen', 'balesnya', 'khianat', 'rakyat', 'tidak apa', 'beda', 'konteks', 'bos', 'coba', 'lihat', 'segi', 'omong', 'tidak apa', 'balik']",0.0
+"['plot', 'twist', 'sudah', 'rancang', 'joko', 'nggembosi', 'suara']",0.0
+"['negara', 'dagel', 'negara', 'kalah', 'acak', 'acak', 'negara', 'lemah']",1.0
+"['moga', 'presiden']",1.0
+['parah'],1.0
+"['atur', 'saja', 'serah', 'lo', 'negara', 'moyang', 'ini']",1.0
+"['bosan', 'ngeributin']",0.0
+"['lah', 'iya', 'khianat', 'wkwkwkk']",0.0
+"['anak', 'mah', 'pentos', 'entar', 'jalan', 'perintah', 'bapake', 'bisikin']",0.0
+"['khianat', 'konstitusi', 'kursi', 'kuasa']",1.0
+"['aduh', 'bingung', 'pilih', 'mending', 'bikin', 'kue', 'saja', 'deh', 'iya', 'cari', 'cake', 'case', 'alat', 'baking', 'lai', 'cek', 'instagram']",1.0
+"['watak', 'ngeri', 'haus', 'kuasa', 'halal', 'ngeri', 'memang', 'kalo', 'hati', 'nurani', 'gelap', 'uang', 'kuasa', 'sdm', 'rendah', 'pilih', 'tuh', 'pikir', 'bagaimana', 'kayak', 'otak', 'gede', 'kelereng', 'kali', 'tempat', 'dengkul']",0.0
+"['tempuh', 'kuasa']",0.0
+"['mas', 'entar', 'kalo', 'pilpres', 'selesai', 'lanjut', 'usaha', 'cateringnya']",0.0
+"['status', 'cuti', 'ya', 'walikota']",0.0
+"['kentut', 'bau', 'bunyi']",1.0
+"['presiden', 'pilih', 'hati']",0.0
+"['putus', 'pedeipe', 'aminin', 'saja', 'presiden', 'bawa', 'indonesia', 'sejahtera', 'amin']",0.0
+"['gila', 'kuasa']",1.0
+"['bambang', 'pacul', 'tertawa', 'lihat', 'mahmud', 'mahmud', 'nurut', 'sama']",0.0
+"['bapak', 'khianat', 'masalah', 'hati', 'dengan', 'manusia']",0.0
+['awokwokwokwok'],1.0
+"['orang', 'kalo', 'gila', 'duniawi', 'jabat', 'duli', 'akal', 'sehat', 'tunggu', 'saja', 'karma', 'gibran rakabuming']",0.0
+"['bapak', 'boneka', 'kamu', 'pergi', 'keluarga', 'banteng', 'iru']",0.0
+"['tidak apa', 'khianatin', 'saja', 'pdip', 'angep', 'presiden', 'angep', 'tugas', 'partai', 'sama', 'emak', 'emak', 'pdip', 'presiden', 'ngendaliin', 'mah', 'layar', 'semua', 'kasihan', 'sbner', 'orang', 'tapi', 'karena', 'partai', 'ngikut', 'buruk', 'saya', 'ogah', 'pilih', 'koalisi', 'pdip']",1.0
+"['mumpung', 'anak', 'presiden']",0.0
+"['salam', 'tegak', 'lurus']",1.0
+"['jalur', 'paman', 'emka', 'jalur', 'kardus', 'gembok', 'esemka']",1.0
+"['habis', 'begini', 'pdip', 'gabung', 'psi', 'partai']",0.0
+"['salam', 'ubah', 'amin']",0.0
+"['memang', 'niat', 'banget', 'wapres', 'pdip', 'hempas', 'atur', 'konstitusi', 'acak', 'keluarga', 'mas', 'licik']",1.0
+"['keren', 'pikir', 'alam', 'banding', 'lo', 'bilang', 'khianat', 'tidak apa', 'saja']",0.0
+"['mas', 'calon wakil presiden', 'diskusi', 'mas', 'nadiem', 'makarim', 'mendikbud', 'banting', 'mas', 'perspektif']",1.0
+"['hati', 'karma', 'bilang', 'tidak apa']",0.0
+"['patut', 'pilih']",0.0
+"['bukti', 'sejati', 'cinta', 'negara', 'korban', 'keluarga', 'karir', 'politik', 'pdi', 'hancur', 'negara', 'pasang', 'calon presiden', 'tllu', 'tua', 'ambisius', 'calon wakil presiden', 'tllu', 'muda', 'alam', 'rakyat', 'indonesia', 'pintar', 'tak', 'pilih', 'pasang', 'seperti', 'pilih', 'baik', 'banding', 'banding']",0.0
+"['mahkamah', 'keluarga']",0.0
+"['drama', 'drama']",0.0
+"['fan', 'berat', 'naruto']",0.0
+"['saya', 'golput', 'saja', 'deh', 'biar', 'dipindahin', 'warga', 'negara']",0.0
+"['hantu', 'meing', 'memang', 'begitu', 'serba', 'bodo', 'amet', 'seius', 'amet', 'doakn', 'bangsa', 'dalam', 'kontrol', 'ymk', 'yang', 'kuasa', 'allah', 'baoa', 'oencipta', 'langit', 'bumi', 'isi']",0.0
+"['pasang', 'ngawur', 'all']",0.0
+"['coba', 'deh', 'lihat', 'jadi', 'pilpres', 'kalah', 'tarik', 'tri', 'lantar', 'enak', 'takutin', 'besok', 'kdepannya', 'mahmud', 'entar', 'tarik', 'tri', 'lantar', 'enak']",0.0
+"['dalam', 'sgi', 'apa', 'khianat', 'dukung']",0.0
+"['dalam', 'sudah', 'berhianat']",0.0
+"['calon', 'pimpin', 'amanah', 'penhianat']",0.0
+"['orang', 'main', 'isi', 'otak', 'serdadu']",0.0
+"['isi', 'perut']",0.0
+"['calon wakil presiden', 'eyang', 'wowo', 'cacat', 'hukum']",1.0
+"['maju', 'mas']",1.0
+['rasengan'],0.0
+"['enteng', 'omong', 'serasa', 'salah']",0.0
+"['sebnarnya', 'tapi', 'gede', 'karena', 'bicara', 'orang', 'jadi', 'pengin', 'menang']",0.0
+"['kuasa', 'campak', 'keluarga', 'didik', 'nol', 'dukung', 'pilkada', 'dki', 'jakarta', 'jadi', 'timbang', 'dukung', 'keluarga']",0.0
+"['terimakasih', 'terimakasih', 'paman']",1.0
+"['orang', 'tulus', 'niat', 'menang', 'pilpres', 'sengaja', 'pilih', 'wakil', 'salah']",0.0
+"['rai', 'gedhek']",0.0
+"['anggap', 'khianat', 'lah', 'asli']",1.0
+"['sifat', 'asli', 'tutup', 'tengil', 'duli', 'etika', 'puja', 'gembira', 'atas', 'angin']",0.0
+['karepmu'],1.0
+"['pgl', 'anak', 'paman']",1.0
+"['ngutip', 'tidak', 'saja', 'min', 'ngutip', 'tuh', 'cakap', 'begitu', 'loh', 'omong', 'makna', 'panjang']",0.0
+"['anak', 'muda', 'paksa', 'matang']",0.0
+"['pdip', 'saja', 'khianat', 'rakyat']",0.0
+"['pilih', 'deh']",0.0
+"['menang', 'bagiamana', 'keluarga', 'kalo', 'menang', 'mungkin', 'kalo', 'menang', 'lebih', 'runyam']",0.0
+"['pas', 'debat', 'mahfudz', 'jurus', 'andal', 'mas', 'biar', 'rakyat', 'nilai']",1.0
+"['bingung', 'coblos', 'semua', 'saja']",0.0
+"['banteng', 'saja', 'khianat', 'rakyat']",0.0
+"['bingung', 'coblos', 'atuh', 'masuk', 'dalam', 'hati', 'benar', 'pilih', 'yasudahlah']",1.0
+"['pancen', 'type', 'tahu', 'terimakasih', 'jangan', 'gen', 'memang', 'khianat', 'moga', 'batal', 'allah']",0.0
+['sorry'],1.0
+"['politik', 'memang', 'begitu']",0.0
+"['drama', 'gerbong']",0.0
+"['balas', 'nenek', 'tua', 'sudah', 'katai', 'kemarin', 'balas']",0.0
+['nepotisme'],0.0
+"['ingsun', 'titip', 'tajug', 'lan', 'fakir', 'miskin']",0.0
+"['enteng', 'sekali', 'omong']",0.0
+"['anak', 'saja']",0.0
+"['masih', 'nyalon', 'saja', 'sudah', 'khianat', 'bagaimana', 'kalo', 'sudah', 'jadi']",0.0
+"['belimbing', 'sayur']",1.0
+"['andai', 'mulut', 'orang', 'filter']",0.0
+"['innalillahi', 'inna', 'ilaihi', 'rojiun']",0.0
+['preketekk'],1.0
+"['sang', 'putra', 'mahkota', 'dasar', 'kutu', 'loncat']",0.0
+"['bapak', 'maluin', 'depan', 'ribu', 'kader', 'pdip', 'situ', 'anak', 'terima', 'balas']",1.0
+"['khianat', 'partai', 'tapi', 'banyak', 'orang', 'suka', 'mas']",0.0
+"['pdip', 'beliau', 'berhianat', 'tutup', 'gerindra', 'berkianat', 'lihat', 'saja', 'apa', 'mereka', 'laku', 'moga', 'presiden', 'pilih', 'baik', 'rakyat', 'indonesia', 'amin']",1.0
+"['halal', 'bagaimana', 'urus', 'negara', 'tidak', 'bahaya', 'teh']",1.0
+"['jangan', 'ulang', 'dinasti', 'keluarga', 'manis', 'pahit', 'rakyat']",0.0
+"['macam', 'bapak', 'presiden', 'paman', 'ketua', 'awas']",1.0
+"['mas', 'mas', 'mbok', 'pikir', 'jangan', 'paksa', 'hendak', 'orang', 'tua']",1.0
+"['kolam', 'koalisi', 'cebong', 'sengaja', 'pasang', 'kaki', 'biar', 'aman', 'usaha', 'keluarga', 'politik', 'kejam', 'halal']",0.0
+"['muka', 'penuh', 'ambisi', 'kuasa']",0.0
+"['ambisius', 'banget', 'deck']",0.0
+"['drama', 'merah', 'kayak', 'bikin', 'kaki', 'bikin', 'drama']",0.0
+"['adzkarngaji', 'yuk', 'daftar', 'tanggung', 'bawah', 'umur', 'gala']",0.0
+"['daripada', 'entar', 'dibilangin', 'pdi', 'run', 'run']",0.0
+"['nguruss', 'blass']",0.0
+"['sabar', 'lihat', 'pasang', 'debat', 'capress']",0.0
+"['eman', 'bikin', 'batal', 'pilih']",0.0
+"['atas', 'awan']",1.0
+"['belum', 'clear', 'kpu', 'rubah', 'undang', 'undang', 'batas', 'calon presiden', 'wacapres', 'batas', 'usia']",0.0
+"['partai', 'nyasa', 'khianat', 'bangsa', 'nanti', 'mentang', 'bapak', 'seorng', 'presiden', 'serba', 'instant', 'tolg', 'mash', 'banyak', 'jenderal', 'pantas', 'wapres']",0.0
+"['hasil', 'kerja', 'solo', 'pilih', 'wapres', 'bapak', 'kuasa', 'usaha', 'mengharpkan', 'kur']",0.0
+"['culas', 'licik']",0.0
+"['sudah', 'kayak', 'mie', 'saja', 'instan']",1.0
+"['khianat', 'rakyat', 'coming', 'soon']",0.0
+"['mas', 'tinggal', 'pdi', 'partai', 'khianat', 'rakyat', 'tuju', 'kalo', 'tenggelam', 'sekaliam']",1.0
+"['inti', 'menang', 'kuasa']",0.0
+"['keren', 'jabat', 'anggap', 'khianat', 'rapopo', 'jamin', 'berhianat', 'rakyat']",0.0
+"['semangat', 'tenang', 'tenang', 'rakyat']",0.0
+"['dalam', 'negara', 'demokrasi', 'pindah', 'parpol', 'gugat', 'usia', 'calon presiden', 'calon wakil presiden', 'demokrasi', 'hasil', 'ketok', 'palu', 'ketua', 'harus', 'hormat', 'karena', 'putus', 'final', 'lepas', 'hubung', 'keluarga', 'ber', 'andai', 'andai']",0.0
+"['kalo', 'kader', 'sudah', 'pecat']",0.0
+"['serius', 'tanya', 'kondisi', 'sehat', 'baik']",1.0
+['setujuu'],1.0
+"['aniess', 'baik']",0.0
+"['clear', 'mah', 'orang', 'tanya', 'bran', 'bran']",0.0
+"['anak', 'presiden', 'keluar', 'taring', 'karena', 'rendah', 'presiden', 'publik']",0.0
+"['ira', 'strategi', 'banteng']",1.0
+"['sudah', 'tahu', 'pilih']",0.0
+"['apapa', 'saja', 'tarik', 'politik', 'nambahin', 'guys']",1.0
+"['tidak apa', 'bagaimana', 'wkl', 'semua', 'tidak apa']",0.0
+"['sedih', 'bahan', 'guyon', 'bahan', 'lelucon', 'kembanglambe', 'sesak', 'nasib', 'sesuk', 'piye', 'nang']",0.0
+"['ajar', 'generasi', 'muda', 'halal', 'capai', 'tuju']",0.0
+['hasil'],0.0
+"['ambisi', 'calon wakil presiden', 'dengan', 'akal', 'undang', 'undang', 'menghianati', 'partai', 'besar', 'nama', 'pilih', 'menghianati', 'rakyat', 'rubah', 'undang', 'undang']",0.0
+"['apa', 'sebut', 'cinta', 'milu']",0.0
+"['media', 'belah', 'sudah', 'bilang', 'temu', 'rudy', 'balikin', 'kata', 'tinggal']",1.0
+['hidupp'],0.0
+"['partai', 'saja', 'khianat', 'posisi', 'rakyat', 'khianat', 'ngeri', 'pilih', 'belot']",1.0
+['respek'],1.0
+"['foto', 'lucu', 'sudah', 'betebaran', 'album', 'mirip', 'bapak']",0.0
+"['bekh', 'raja', 'bok', 'jangan', 'sampai', 'presiden']",1.0
+['main'],0.0
+"['jilat', 'teruus']",0.0
+"['clear', 'sampo', 'kali', 'ah']",0.0
+"['tumbuh', 'jmbt']",0.0
+"['pahit', 'pahit', 'pahit', 'pahit']",0.0
+"['kalo', 'kalah', 'bagaimana', 'tenang', 'paman', 'menang']",1.0
+"['jabat', 'kuasa', 'hancur', 'curang']",0.0
+"['sandiwara', 'baca']",0.0
+"['keren', 'sekali', 'mantap']",1.0
+"['orang', 'gila', 'jabat', 'memang', 'biyasany', 'pduli', 'kata', 'orang', 'karena', 'mrasa', 'puny', 'beking', 'sangat', 'kuat']",0.0
+"['gacor', 'kakek', 'kasih', 'depo', 'main', 'situs', 'gacor']",0.0
+"['saja', 'kuar', 'gerindra', 'pamit', 'pinang', 'calon wakil presiden', 'pamit', 'terima', 'terima', 'kasih', 'paman']",1.0
+"['nyapres', 'ndagel', 'kalah', 'menang', 'lho']",1.0
+"['saja', 'hemat', 'anggar', 'negara']",0.0
+"['memang', 'resmi', 'partai']",0.0
+"['kayak', 'begitu', 'bela', 'idola', 'kerja', 'enak', 'kali', 'makan', 'jamin', 'heran', 'orang', 'begitu', 'bela', 'saya', 'tetap', 'bintangemon', 'bingung', 'mau', 'pilih', 'dosa', 'saya', 'maaf', 'wkwkwkkwkw']",1.0
+"['ngeri', 'ya', 'omong', 'netizen', 'kayak', 'tahu', 'begitu']",1.0
+"['enak', 'sekali', 'hidup', 'mas', 'turut']",1.0
+"['moga', 'mas']",1.0
+"['dasar', 'kutu', 'loncat']",0.0
+"['politik', 'mah', 'darah', 'kandung', 'ribut', 'entar', 'baik']",0.0
+"['khianat', 'ting', 'kubu', 'merah']",0.0
+"['pandang', 'hehe']",0.0
+"['yang', 'bilang', 'lihat', 'betapa', 'sabar', 'kucil', 'tum', 'partai', 'padahal', 'posisi', 'bapak', 'presiden', 'salah', 'anak', 'anak', 'sakit', 'lihat', 'deh', 'kasih', 'indonesia', 'saja', 'oknum', 'rendah', 'internal']",0.0
+['usak'],0.0
+"['awam', 'politik', 'jiwa', 'kenegarawan', 'mundur', 'kursi', 'wali', 'kota', 'solo', 'beliau', 'wali', 'kota', 'kereta', 'pdi']",0.0
+"['hidup', 'enak', 'tenang', 'santsi', 'saja', 'hidup', 'tantang', 'sejati', 'hidup', 'penuh', 'juang', 'seru', 'kalo']",0.0
+"['kacang', 'polong']",0.0
+"['moga', 'manuver', 'politik', 'gaya', 'surakarta', 'diri', 'kota', 'raja', 'muda', 'gelar', 'susuhunan', 'paku', 'buwono', 'lahir', 'wafat', 'akibat', 'hancur', 'keraton', 'kartasura', 'pasu', 'turun', 'tionghoa', 'jawa', 'perang', 'rebut', 'mahkota', 'serah', 'daulat', 'raja', 'mataram', 'islam', 'voc', 'akibat', 'hutang', 'raja', 'voc', 'lunas', 'masa']",0.0
+"['kalo', 'penghiant']",0.0
+"['tunjuk', 'ucap', 'mbah', 'uti', 'salah', 'hina']",0.0
+"['setia', 'pdip', 'gapol']",0.0
+"['calon presiden', 'bawah', 'holding', 'company', 'pdiperjuangan', 'nyapres', 'karena', 'penting', 'ikn', 'pilih', 'bijak']",0.0
+"['tahun', 'golput']",1.0
+"['jadi', 'derita', 'saksi', 'kuasa', 'presiden', 'batas', 'kuasa', 'langgeng', 'kuasa', 'rakyat', 'kuasa', 'tuhan', 'maha', 'esa', 'soekarnobapakbangsa']",1.0
+"['tidak apa', 'orang', 'dapat', 'jabat', 'enak']",0.0
+"['jangan', 'dengar', 'berita', 'panas', 'panas', 'panas']",0.0
+"['belum', 'wapres', 'saja', 'sudah', 'berhianat', 'partai', 'bagaimana', 'sudah', 'wapres', 'gampang', 'berhianat', 'rakyat', 'kebelet', 'obsesi', 'tong']",0.0
+"['ngapa', 'begitu', 'foto', 'capture', 'konten', 'wibawa', 'loh', 'asem', 'banget']",1.0
+"['sampon', 'clear']",0.0
+"['sudah', 'arah', 'kuasa', 'penuh']",0.0
+"['tidak apa', 'deh', 'suka']",0.0
+"['tidak', 'anggap', 'memang', 'iya']",0.0
+"['hmm', 'begitu', 'ya']",0.0
+"['wartawan', 'banyak', 'tanya', 'dilaporin', 'paman', 'palu', 'indonesia', 'goyang']",1.0
+"['polling', 'calon presiden', 'cek']",1.0
+['tidack'],0.0
+"['jabat', 'bilang', 'sudah', 'alam', 'sudah', 'jabat', 'gubernur', 'bagaimana']",1.0
+"['wis', 'manut', 'pokoke', 'jos', 'gandos']",1.0
+"['masalah', 'sempat', 'berkarir', 'lebih', 'salah', 'halang']",1.0
+"['tinggal', 'berani', 'mudur', 'wali', 'kota', 'karena', 'mbalelo', 'partai', 'usung', 'bagus', 'bang', 'pilih', 'cawapresnya', 'langsung', 'undur', 'wagub', 'dki', 'contoh', 'pimpin', 'massa']",1.0
+['senyum'],0.0
+"['proses', 'sptnya', 'mungkin', 'khianat']",1.0
+"['rakus', 'sampai', 'anak', 'kasih', 'jabat']",1.0
+"['yangg', 'pussingg', 'ngeliatan', 'politik', 'akhri', 'mending', 'lihat', 'story', 'saya', 'refreshing']",1.0
+['malu'],1.0
+"['ambisi', 'kuasa', 'negeri', 'ckck']",0.0
+"['muda', 'sekali', 'tolong', 'kasih', 'tahu', 'dukung', 'bagus']",0.0
+"['tidak apa', 'khianat']",0.0
+"['biar', 'kuat', 'selesai', 'sampai', 'gerak', 'layar', 'lurah']",1.0
+"['ora', 'dwe', 'isin', 'mas', 'mas']",0.0
+"['kalo', 'keluarga', 'cemara', 'harta', 'harga', 'keluarga', 'keluarga', 'kasih', 'jabat', 'politik', 'biar', 'sejahtera']",0.0
+"['otomatis', 'kalah']",0.0
+"['sudah', 'khianat', 'rakyat', 'kalo']",0.0
+"['diam', 'tolah', 'toleh', 'gerak', 'anak', 'bagi', 'jabat', 'kabeh']",1.0
+"['kacang', 'lupa', 'kulit']",1.0
+"['mereka', 'jujur']",0.0
+"['terima', 'kasih', 'paman']",0.0
+"['harga', 'juang', 'pancasila', 'eling', 'mas', 'eling', 'mumpung', 'belum', 'kampanye']",1.0
+"['moga', 'amanah', 'moga', 'manut', 'kuasa', 'olok', 'olok', 'malu']",1.0
+"['pimpin', 'pegang', 'omong', 'esuk', 'sore', 'mbengi', 'delle']",1.0
+['gimik'],1.0
+"['rumongso', 'duwe', 'dekengan']",0.0
+"['indonesia', 'bebas', 'oligarki', 'mimpi']",1.0
+"['kalo', 'kalah', 'end']",1.0
+"['sah', 'etika', 'jelek']",0.0
+"['sudah', 'over', 'main', 'sudah', 'negara']",0.0
+"['dukung', 'memang']",0.0
+"['malu', 'kuasa', 'anak', 'maksimal', 'lambat', 'presiden']",0.0
+"['tampang', 'culun', 'culas']",0.0
+"['sabar', 'lihat', 'debat']",0.0
+"['rentan', 'bloon']",0.0
+"['untung', 'israel', 'ikut', 'pildun', 'fifa', 'solo', 'coba', 'kalo']",0.0
+['calon'],0.0
+"['didik', 'kalo', 'endingnya', 'nipu', 'rakyat', 'mending', 'tidak usah', 'contoh']",0.0
+['capekdehh'],0.0
+"['tahu', 'kalah', 'halus']",0.0
+"['pdip', 'saja', 'berani', 'bisa', 'khianat']",0.0
+"['masalah', 'ucrit', 'sudah', 'kebelet', 'rakus', 'kuasa']",1.0
+"['iya', 'tidak apa', 'mas', 'urat', 'malu', 'sudah', 'pedot']",0.0
+['sombong'],1.0
+"['orang', 'tahu', 'berterimakasih']",1.0
+"['deh', 'tebak', 'skenario']",0.0
+"['orang', 'suka', 'bungkuk', 'etika', 'sopan', 'orang', 'ngeprank']",0.0
+"['komen', 'takut', 'turun', 'jangan', 'ethes']",1.0
+['paman'],0.0
+"['drama', 'banteng']",0.0
+"['tidak', 'asa', 'walikota', 'saja', 'pdi', 'tidak', 'bahaya', 'teh', 'sifat', 'begini']",1.0
+"['politik', 'kawan', 'lawan', 'penting', 'sempat']",0.0
+"['pdi', 'ambil', 'alih', 'milu', 'sempurna']",0.0
+"['lah', 'memang', 'keluarga', 'mereka', 'mah', 'malu', 'bhg', 'kayak', 'kayak']",1.0
+"['anak', 'presiden', 'suka']",1.0
+"['manusia', 'kepala', 'kutu', 'loncat', 'plinplan']",0.0
+"['nanti', 'keok', 'kanan', 'dukung', 'bilang', 'kader', 'pdip']",0.0
+"['prihatin', 'ambisius', 'kuasa', 'tonton', 'rakyat', 'publik', 'rakyat', 'bodoh', 'kuat', 'kuasa', 'republik', 'milik', 'atas', 'hukum', 'perkosa', 'lingkar', 'kuasa', 'gampang', 'republik', 'bangun']",1.0
+"['sah', 'saja', 'sih', 'nama', 'politik']",0.0
+"['boneka', 'lemah', 'saya', 'sukses', 'pimpin', 'indonesia', 'bukti', 'kalo', 'cinta']",0.0
+"['bingung', 'pilih']",0.0
+"['planga', 'plongo', 'tatap', 'kosong']",1.0
+"['jabat', 'korupsi', 'duit', 'rakyat', 'khianat']",1.0
+"['ribut', 'terus', 'netim', 'yaudahlah', 'tinggal', 'pilih', 'saja', 'kenapa']",0.0
+"['emak', 'redbull', 'ajak', 'dari', 'golkar', 'jadi', 'calon wakil presiden', 'untuk', 'lawan', 'calon wakil presiden', 'golkar', 'izin', 'sowan', 'juga', 'dari', 'golkar', 'spi', 'sekarang', 'tidak', 'ribut', 'anda', 'ajar', 'berhianat', 'politik', 'playing', 'victim']",0.0
+"['saran', 'saja', 'mas', 'rendah', 'hati', 'meninggalakan', 'tempat', 'orang', 'orang', 'pongah', 'sikap', 'orang']",1.0
+"['urip', 'wes', 'enak', 'rak', 'popo', 'kabeh', 'engah', 'mas', 'engah']",0.0
+"['tunggu', 'debat', 'calon presiden', 'ajaah']",0.0
+"['clear', 'minimal', 'tegas', 'resmi']",0.0
+['muda'],1.0
+"['anak', 'paman']",0.0
+"['sumph', 'sudah', 'kali', 'pilih', 'allin', 'saja', 'malas', 'wakil']",0.0
+"['partai', 'saja', 'tanggap', 'santuy', 'kalo', 'negara', 'coba', 'coba', 'kayak', 'praktik', 'saja']",1.0
+"['kayak', 'klan', 'sudah', 'jalan', 'red', 'bull']",0.0
+"['milu', 'hasil', 'calon', 'langgar', 'etika', 'paksa', 'sifat', 'asli', 'kandidat', 'jabat', 'apa', 'laku']",1.0
+"['ambius', 'kuasa']",0.0
+"['benalu', 'usak', 'demokrasi', 'wowo', 'tinggal', 'dukung']",1.0
+"['apakh', 'juga', 'akan', 'pnghint', 'rakyat']",0.0
+"['mesti', 'anggota', 'partai', 'jadin', 'calon wakil presiden', 'golkar', 'dukung', 'koalisi', 'lawan', 'gantung', 'bijak', 'partai']",0.0
+"['tarik', 'bocil', 'kebo']",0.0
+"['keponakan', 'paman']",1.0
+"['hati', 'skenario', 'lawan']",0.0
+['mas'],0.0
+"['pilih', 'anak', 'attitude', 'nol']",1.0
+['yess'],1.0
+"['majuu', 'gibran rakabuming', 'yess']",1.0
+['penghi'],0.0
+['good'],0.0
+"['planga', 'plongo', 'jilid']",0.0
+"['mikir', 'hianati', 'bagaimana']",0.0
+"['kalah', 'karier', 'kandas', 'deh', 'mirip']",0.0
+"['penghianatan', 'politikus', 'nama']",0.0
+"['iya', 'sudah', 'langsung', 'lantik', 'biar', 'dana', 'triliun', 'milu', 'butuh', 'rakyat', 'begitu']",0.0
+"['deklarasi', 'calon presiden', 'wapres', 'hadap', 'tum', 'pdip', 'kembali', 'kata', 'izin', 'pamit', 'main', 'kaki', 'saja', 'paket', 'pilih', 'kalah', 'gabung']",0.0
+"['hasbunallah', 'wanikmal', 'wakil', 'nikmal', 'maula', 'wanikman', 'nasir', 'lahaula', 'walaquwata', 'illabillah', 'hil', 'aliyil', 'adzim', 'free', 'and', 'save', 'palestina']",0.0
+"['karakter', 'bawa']",0.0
+"['inti', 'jangan', 'moncong', 'putih']",0.0
+['gemessh'],0.0
+"['menghianati', 'redbull', 'hallal', 'hukum']",0.0
+"['politik', 'kejam', 'kenal', 'kawan', 'lawan', 'terkadang', 'etika', 'capai', 'tuju', 'politik']",1.0
+"['jadi', 'tugas', 'partai']",0.0
+"['dukung', 'status', 'jalan', 'tol', 'mantap', 'dukung', 'integritas', 'kapabilitas', 'mimpin', 'negeri']",1.0
+"['presiden', 'kerja', 'nol']",0.0
+"['politik', 'muluu', 'muncul', 'beranda', 'sampai', 'enek', 'baca']",0.0
+"['teu', 'nanaon']",0.0
+"['pamit', 'mundur', 'gegara', 'caplin']",0.0
+"['dapat', 'periode', 'hasil', 'wapres', 'calon presiden', 'periode', 'karena', 'sudah', 'golkar', 'kans', 'tum', 'golkar', 'wapres']",0.0
+"['nama', 'kerja', 'kiri', 'kanan', 'orang', 'pdi']",0.0
+"['khianat', 'dukung', 'khianat', 'partai', 'cocok']",0.0
+"['anti', 'banteng']",0.0
+"['pilih', 'apalagi', 'jaya', 'banteng', 'banteng', 'dinasty']",1.0
+"['temu', 'tidak', 'baik', 'ujung']",0.0
+"['sekarep', 'putra', 'mahkota']",1.0
+"['biasa', 'memang']",0.0
